@@ -1,0 +1,15 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@streetlevel65">
+<meta name="twitter:creator" content="@streetlevel65">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+{% if page.image %}
+  <meta name="twitter:image:src" content="{{ site.url }}/asset/{{ page.image }}">
+{% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/asset/SL_Logo.png">
+{% endif %}
