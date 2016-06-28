@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     {% include fb-meta.html %}
-    <title>Street Level</title>
+    <title>{{ site.title }}</title>
 
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/github-light.css">
@@ -16,8 +16,8 @@
   <body>
     <div class="wrapper">
       <header>
-	<a href="{{ site.url }}/index.html"><h1>Street Level</h1></a>
-        <p>Real Estate Investing in Singapore</p>
+	<a href="{{ site.url }}/index.html"><h1>{{ site.title }}</h1></a>
+        <p>{{ site.description }}</p>
 
 
         <p class="view"><a href="{{ site.url }}/archive/">Archive</a></br>
