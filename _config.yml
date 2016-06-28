@@ -1,10 +1,11 @@
 # Where things are
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-data_source: ./_data
-collections: null
+source:       .
+destination:  ./_site
+plugins:      ./_plugins
+layouts:      ./_layouts
+data_source:  ./_data
+collections:  null
+site.url:     https://street-level.github.io
 
 # Handling Reading
 safe:         false
@@ -15,15 +16,15 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      true
-unpublished: false
+show_drafts:  null
+limit_posts:  0
+future:       true
+unpublished:  false
 
 # Facebook
-fb_admins:          https://www.facebook.com/kaiwei
-fb_appid:           1144883565583225
-avatar:             assets/SL_Logo.png
+fb_admins:    https://www.facebook.com/streetlevel65
+fb_appid:     1144883565583225
+avatar:       assets/SL_Logo.png
 
 # Plugins
 whitelist: []
