@@ -7,7 +7,7 @@
 {% else %}
   <meta content="https://street-level.github.io/assets/SL_Logo.png" property="og:image">
 {% endif %}
-<meta property="og:description" content="Real Estate Investing in Singapore">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}"{{ site.description }}Real Estate Investing in Singapore{% endif %}">
 <meta property="og:site_name" content="Street Level">
 <meta property="article:author" content="https://www.facebook.com/streetlevel65">
 
