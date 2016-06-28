@@ -5,7 +5,10 @@ plugins:      ./_plugins
 layouts:      ./_layouts
 data_source:  ./_data
 collections:  null
+
+# Site Variables
 url:          https://street-level.github.io
+title:        Street Level
 
 # Handling Reading
 safe:         false
