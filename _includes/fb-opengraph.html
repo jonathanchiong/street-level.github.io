@@ -5,7 +5,7 @@
 {% else %}
   <meta content="website" property="og:type">
 {% endif %}
-<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:url" content="http://www.street-level.co{{ page.url }}">
 {% if page.image %}
   <meta content="{{ site.url }}/assets/{{ page.image }}" property="og:image">
 {% else %}
