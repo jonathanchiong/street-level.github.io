@@ -1,5 +1,5 @@
-### Street Level
-Real Estate Investing in Singapore
+### {{ site.title }}
+{{ site.description }}
 
 
-Made in Singapore — Copyright © 2016 Street Level.
+Made in Singapore — Copyright © 2016 {{ site.title }}.
