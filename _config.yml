@@ -9,6 +9,7 @@ collections:  null
 # Site Variables
 url:          https://street-level.github.io
 title:        Street Level
+description:  Real Estate Investing in Singapore
 
 # Handling Reading
 safe:         false
