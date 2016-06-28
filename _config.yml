@@ -7,7 +7,7 @@ data_source:  ./_data
 collections:  null
 
 # Site Variables
-url:          https://street-level.github.io
+url:          www.street-level.co
 title:        Street Level
 description:  Real Estate Investing in Singapore
 
