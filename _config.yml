@@ -8,7 +8,7 @@ collections:  null
 
 # Site Variables
 baseurl:      "/"
-url:          http://www.street-level.co/
+url:          http://www.street-level.co
 title:        Street Level
 description:  Real Estate Investing in Singapore
 
