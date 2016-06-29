@@ -39,7 +39,7 @@ gems:      []
 markdown:    kramdown
 highlighter: rouge
 lsi:         false
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n"
 
 # Serving
 #detach:  false
