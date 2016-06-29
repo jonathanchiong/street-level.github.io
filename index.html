@@ -5,7 +5,7 @@ layout: default
 {% for post in site.posts %}
   <li><span><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</a></h3>
   {{ post.excerpt | split:"<!--more-->" | first | truncatewords:800 }}
-    {% if page.content | number_of_words > 800 %}
+    {% if post.excerpt | strip_html | number_of_words > 800 %}
       <a href="{{ site.url }}{{ post.url }}"><h5>More&hellip;</h5></a>
     {% endif %}
 </li>
