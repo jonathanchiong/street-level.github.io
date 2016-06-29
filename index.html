@@ -8,15 +8,6 @@ layout: default
         {{ post.content | split:'<!--more-->' | first }}
       {% else %}
         {{ post.excerpt }}
-          {% capture content_words %} 
-            {{ post.content | number_of_words }} 
-          {% endcapture %} 
-          {% capture excerpt_words %} 
-            {{ post.excerpt | number_of_words }} 
-          {% endcapture %}
-          {% if excerpt_words != content_words %}
-            <a href="{{ site.url }}{{ post.url }}"><h5>&hellip;More</h5></a>
-          {% endif %}
       {% endif %}
       <a href="{{ site.url }}{{ post.url }}"><h5>&hellip;More</h5></a>
     </li>
