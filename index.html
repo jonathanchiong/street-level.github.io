@@ -4,8 +4,8 @@ layout: default
 <ul class="posts">
 {% for post in site.posts %}
   <li><span><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</a></h3>
-    {{ post.content | split:"<!--more-->" | first | strip_html | truncate:300 }}
-{% if post.content | size > 300 %}
+    {{ post.content | split:"<!--more-->" | first | strip_html | truncate:100 }}
+{% if post.content | size > 100 %}
     <strong>More</strong>
 {% endif %}
 </li>
