@@ -7,10 +7,22 @@ layout: default
   {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
       {% else %}
-    {{ post.excerpt }}
+    {{ post.excerpt }} 
+    {% capture content_words %} 
+      {{ post.content | number_of_words }} 
+    {% endcapture %} 
+    {% capture excerpt_words %} 
+      {{ post.excerpt | number_of_words }} 
+    {% endcapture %} 
+    {% if excerpt_words != content_words %}
+    <p><a href="{{ site.url }}{{ post.url }}"><h5>More&hellip;</h5></a>
+    </p>
+    {% endif %}
   {% endif %}
     <a href="{{ site.url }}{{ post.url }}"><h5>More&hellip;</h5></a>
 </li>
     <br>
   {% endfor %}
 </ul>
+
+
