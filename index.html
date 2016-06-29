@@ -5,7 +5,8 @@ layout: default
 {% for post in site.posts %}
   <li><span><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</a></h3>
     {% if post.content contains '<!--more-->' %}
-      {{ post.content | split:'<!--more-->' | first }}<h5><a href="{{ site.url }}{{ post.url }}">&hellip;more</a></h5>
+      {{ post.content | split:'<!--more-->' | first }}
+      <h5><a href="{{ site.url }}{{ post.url }}">&hellip;more</a></h5>
     {% else %}
       {{ post.excerpt }}
       {% capture content_words %} 
