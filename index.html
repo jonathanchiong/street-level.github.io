@@ -6,7 +6,7 @@ layout: default
   <li><span><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</span> &mdash; {{ post.date | date_to_string }}</a></h3>
     {{ post.excerpt | split:"<!--more-->" | first | strip_html | truncatewords:100 }}
 {% if post.excerpt | size > 100 %}
-    <a href="{{ site.url }}{{ post.url }}"><h4>More&hellip;</h4></a>
+    <a href="{{ site.url }}{{ post.url }}"><h5>More&hellip;</h5></a>
 {% endif %}
 </li>
     <br>
