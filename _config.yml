@@ -50,7 +50,8 @@ excerpt_separator: "\n\n"
 # Outputting
 #permalink: /blog/:year/:month/:day/:title
 #paginate_path: /page:num
-timezone: Asia/Singapore
+timezone:   Asia/Singapore
+published:  false
 
 quiet:    false
 defaults: []
