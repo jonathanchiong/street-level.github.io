@@ -34,7 +34,7 @@ avatar:       assets/SL_Logo.png
 # Prose
 prose:
   siteurl: http://www.street-level.co
-  rooturl: '_posts'
+#  rooturl: '_posts'
   media: 'assets'
   metadata:
     _posts:
