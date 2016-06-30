@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "About Street Level"
+title: About Street Level
 permalink: /colophon/
+published: true
 ---
 Street Level is written and produced by two guys based in Singapore.
 
@@ -15,6 +16,6 @@ That is why we started Street Level.
 
 <h3>What is Street Level?</h3>
 
-We discuss on all things related to real estate investments in Singapore. We will also talk about other topics we find useful, in terms of growing our hard earned income, working towards achieving some semblance of financial independence and personal finance tips we had found handy over the years.
+We discuss all things related to real estate investments in Singapore. We will also talk about other topics we find useful, in terms of growing our hard earned income, working towards achieving some semblance of financial independence and personal finance tips we had found handy over the years.
 
 Financial concepts and jargons are oftentimes overly complicated. We strive to write authentically, in a way that our own friends not in the industry can easily understand. We will be candid in our views and hope that our experience in the industry will allow us to provide an unique perspective to Real Estate investments in Singapore.
