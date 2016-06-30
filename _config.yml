@@ -31,6 +31,18 @@ fb_admins:    https://www.facebook.com/streetlevel65
 fb_appid:     1144883565583225
 avatar:       assets/SL_Logo.png
 
+# Prose
+prose:
+  siteurl: http://www.street-level.co
+  rooturl: '_posts'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "title"
+      	field:
+        	element: "text"
+            label: "title"
+
 # Plugins
 whitelist: []
 gems:      []
