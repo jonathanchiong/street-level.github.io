@@ -36,6 +36,11 @@ prose:
   siteurl: http://www.street-level.co
 #  rooturl: '_posts'
   media: 'assets'
+  ignore:
+  - index.html
+#  - _config.yml
+  - /_layouts
+  - /_includes
   metadata:
     _posts:
       - name: "title"
