@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Short-term pain, long term opportunities'
-date: 2016-07-01T00:00:00.000Z
+date: {}
 tags: finance brexit EU developer REIT
 published: false
 ---
-The extreme volatility in global markets post-Brexit is a knee-jerk reaction to the uncertainty and lack of confidence in the world's economy, particularly Europe. The bigger implication, however, is the risk of a [Brexit contagion]( http://www.express.co.uk/news/world/684131/brexit-eu-referendum-tsunami-france-italy-netherlands) to Europe with negotiation on the Brexit terms expecting to take years at least. While many investors are understandably feeling uncertain during this period, we should stay focused on the longer term opportunities that arise despite the political chaos.<!--more-->
+The extreme volatility in global markets post-Brexit is a knee-jerk reaction to the uncertainty and lack of confidence in the world's economy, particularly Europe. The bigger implication, however, is the risk of a [Brexit contagion]( http://www.express.co.uk/news/world/684131/brexit-eu-referendum-tsunami-france-italy-netherlands) to Europe, with negotiation on the Brexit terms expecting to take years at least. While many investors are understandably feeling uncertain during this period, we should stay focused on the longer term opportunities that arise despite the political chaos.<!--more-->
 
 ![Brexit]({{ site.url }}/assets/Brexit_flag.png =300x)<br>
 <sup>Background vector designed by Starline - Freepik.com</sup>
