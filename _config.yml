@@ -38,9 +38,19 @@ prose:
   media: 'assets'
   ignore:
   - index.html
+  - .gitignore
+  - .jekyll-metadata
+  - CNAME
+  - LICENSE
+  - atom.xml
+  - favicon.ico
+  - params.json
+  - sitemap.xml
 #  - _config.yml
   - /_layouts
   - /_includes
+  - /javascripts
+  - /stylesheets
   metadata:
     _posts:
       - name: "title"
