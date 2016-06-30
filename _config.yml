@@ -38,10 +38,14 @@ prose:
   media: 'assets'
   metadata:
     _posts:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
       - name: "title"
         field:
           element: "text"
-          label: "title
+          label: "title"
 
 # Plugins
 whitelist: []
