@@ -39,9 +39,9 @@ prose:
   metadata:
     _posts:
       - name: "title"
-      	field:
-        	element: "text"
-            label: "title"
+        field:
+          element: "text"
+          label: "title
 
 # Plugins
 whitelist: []
