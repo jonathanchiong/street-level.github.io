@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Short-term pain, long term opportunities'
-date: {}
+date: 2016-07-01T00:00:00.000Z
 tags: finance brexit EU developer REIT
 published: true
 ---
