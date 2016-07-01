@@ -7,7 +7,7 @@ published: true
 ---
 The extreme volatility in global markets post-Brexit is a knee-jerk reaction to the uncertainty and lack of confidence in the world's economy, particularly Europe. The bigger implication, however, is the risk of a [Brexit contagion]( http://www.express.co.uk/news/world/684131/brexit-eu-referendum-tsunami-france-italy-netherlands) to Europe, with negotiation on the Brexit terms expecting to take years at least. While many investors are understandably feeling uncertain during this period, we should stay focused on the longer term opportunities that arise despite the political chaos.<!--more-->
 
-![Brexit]({{ site.url }}/assets/Brexit_flag.png =300x)<br>
+![Brexit]({{ site.url }}/assets/Brexit_flag.png)<br>
 <sup>Background vector designed by Starline - Freepik.com</sup>
 
 We believe the economic fallout will be largely confined to Britain, and to a lesser degree, Europe. Asia has strong fundamentals that should hold up well, if not actually [gain positively](http://www.bloomberg.com/view/articles/2016-06-24/china-could-be-the-biggest-winner-from-brexit) from Brexit. We believe that the markets had oversold Asian equities with solid fundamentals, and the current volatility may now present a good opportunity to re-examine strong dividend yielding stocks again (with a view towards the long term). For example, many property developers and REITs listed in Singapore have little or no to the UK or Europe, but may see prices dragged down with the broader market. This could present an attractive entry point for investors who are interested on the sector.
