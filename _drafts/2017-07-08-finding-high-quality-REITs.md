@@ -18,8 +18,9 @@ In this article, we will discuss 4 key factors underpinning good quality REITs w
 
 Its not that hard to identify good quality REITs.  All you need is a bit of research (and walking around the property).  As we mention in our previous post, the key is finding the right entry price for such good quality REITs, and we believe the volatile markets will provide investors the opportunity to accumulate such REITs in the months to come.
 
+Footnotes:
 1.  Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
 2.  Encumbrance refers to pledging a property to the bank as collateral for borrowings
 
-Disclaimer
+Disclaimer:
 The author may have positions or interests in the stocks mentioned in this article. These should not be viewed as recommendations; always do your own research before buying any stock.
