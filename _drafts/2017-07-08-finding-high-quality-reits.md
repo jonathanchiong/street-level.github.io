@@ -2,6 +2,7 @@
 published: false
 title: Finding high quality REITs in a volatile market
 ---
+![Buildings-sg.jpg]({{site.baseurl}}/assets/Buildings-sg.jpg)
 
 We had previously discussed taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
 
@@ -26,5 +27,5 @@ REITs with lower gearing and large debt headroom will enable them to act quickly
 It is not difficult to identify good quality REITs. Some research and walking the ground will go a long way. As we mention in our previous post, the key is finding the right entry price for such good quality REITs, and we believe the volatile markets will provide investors the opportunity to accumulate such REITs at attractive entry prices in the months to come.
 
 Footnotes:
-1.Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
-2.Encumbrance refers to pledging a property to the bank as collateral for borrowings
+1. Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
+2. Encumbrance refers to pledging a property to the bank as collateral for borrowings.
