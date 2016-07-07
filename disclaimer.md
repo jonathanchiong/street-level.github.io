@@ -9,6 +9,6 @@ Street Level does not guarantee the timeliness, accuracy or completeness of the 
 
 Street Level is not liable for any loss (including direct, indirect and consequential loss, loss of profits, loss or corruption of data or economic loss of any kind) that may result from the access or use of, or the inability to access or use, the materials on this blog.
 
-The writers do and seek to do business with companies covered at Street Level. They also hold or seek to hold an interest in any of the securities, financial instruments, investments and assets covered at Street Level. As a result, readers should be aware that the writers may have a conflict of interest that could affect their objectivity.
+The writers do and seek to do business with companies covered at Street Level. They also may hold or seek to hold an interest in any of the securities, financial instruments, investments and assets covered at Street Level. As a result, readers should be aware that the writers may have a conflict of interest that could affect their objectivity.
 
 If you wish to use any information from this blog in a publication, please <a href="mailto:streetlevel65@gmail.com">contact us</a>.
