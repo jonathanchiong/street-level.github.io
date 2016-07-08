@@ -29,5 +29,5 @@ REITs with lower gearing and large debt headroom will enable them to act quickly
 
 As you can see, it is not difficult to identify good quality REITs. Some research and walking the ground will go a long way. As we mention in our [previous post]({{site.baseurl}}/2016/07/01/short-pain-long-opportunities.html), the key is finding the right entry price for such good quality REITs, and we believe the volatile markets will provide investors the opportunity to accumulate such REITs at attractive entry prices in the months to come.
 
-[^n] Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
-[^n] Encumbrance refers to pledging a property to the bank as collateral for borrowings.
+[^n]:Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
+[^n]:Encumbrance refers to pledging a property to the bank as collateral for borrowings.
