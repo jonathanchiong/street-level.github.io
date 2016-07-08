@@ -9,7 +9,7 @@
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 {% if page.image %}
-<meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
+<meta name="twitter:image" content="{{ page.image }}">
 {% else %}
 <meta name="twitter:image:src" content="{{ site.url }}/assets/SL_Logo.png">
 {% endif %}
