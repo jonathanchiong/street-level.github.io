@@ -4,7 +4,7 @@ published: false
 title: Investing in high quality REITs in an unpredictable market
 date: 2016-07-08
 tags: brexit REITs
-published: false
+published: true
 ---
 
 ![Buildings-sg.jpg]({{site.baseurl}}/assets/Buildings-sg.jpg)
