@@ -7,8 +7,8 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
-<meta content="og:image" content="
 {% if page.image %}
+<meta content="og:image" content="
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}
   {% if image contains 'src=' %}
