@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Investing in high quality REITs in an unpredictable market
+title: 'Investing in high quality REITs in an unpredictable market'
 date: 2016-07-08
 tags: brexit REIT
 published: true
 ---
-
 ![Buildings-sg.jpg]({{site.baseurl}}/assets/Buildings-sg.jpg)
 
 We had [previously discussed]({{site.baseurl}}/2016/07/01/short-pain-long-opportunities.html) taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
