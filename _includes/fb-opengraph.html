@@ -8,7 +8,7 @@
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.url }}">
 
 {% if page.image %}
-  <meta content="{{ page.image }}" property="og:image">
+  <meta content="http://{{ page.image }}" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/assets/SL_Logo.png" property="og:image">
 {% endif %}
