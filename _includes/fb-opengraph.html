@@ -8,7 +8,7 @@
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
 <meta property="og:image" content="
-{% for image in images %}
+{% for image in post.content %}
   {% if image contains 'src=' %}
     {% assign imageMarkup = image | split:">" | first %}
   {{ site.url }}/assets/{{ imageMarkup }}
