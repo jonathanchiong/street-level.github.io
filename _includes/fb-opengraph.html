@@ -8,9 +8,9 @@
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
 {% if page.image %}
-<meta property="og:image" content="{{ site.imgurl }}/{{page.thumbimg}}">
+  <meta content="/img/srcset/{{ page.image }}" property="og:image">
 {% else %}
-<meta property="og:image" content="{{ site.url }}/assets/SL_Logo.png">
+  <meta content="{{ site.url }}/assets/SL_Logo.png" property="og:image">
 {% endif %}
 
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
