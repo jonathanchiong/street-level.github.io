@@ -6,7 +6,7 @@ thumbimg: Buildings-sg.jpg
 tags: brexit REIT
 published: true
 ---
-![Buildings-sg.jpg]({{site.url}}/assets/Buildings-sg.jpg)
+<img class="img-responsive" alt="Buildings" src="{{ site.imgurl }}/{{page.thumbimg}}"/>
 
 We had [previously discussed]({{site.url}}/2016/07/01/short-pain-long-opportunities.html) taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
 
