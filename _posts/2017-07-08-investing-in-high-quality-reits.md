@@ -10,7 +10,7 @@ published: true
 
 We had [previously discussed]({{site.baseurl}}/2016/07/01/short-pain-long-opportunities.html) taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
 
-Since [Brexit](https://en.wikipedia.org/wiki/United_Kingdom_withdrawal_from_the_European_Union), strong sponsor-backed REITs have outperformed their peers in what we described as a two speed market. CapitaLand Commercial Trust, Ascendas REIT and Mapletree Industrial Trust have seen their share price increase by 10%, 7% and 12% respectively, while Sabana REIT has dropped 5%, and Viva Industrial Trust and Cambridge Industrial Trust has seen only relatively mild increases of 1% and 2% respectively. <!--more-->
+Since [Brexit](https://en.wikipedia.org/wiki/United_Kingdom_withdrawal_from_the_European_Union), strong sponsor-backed REITs have outperformed their peers in what we described as a two speed market. CapitaLand Commercial Trust, Ascendas REIT and Mapletree Industrial Trust have seen their share price increase by 10%, 7% and 12% respectively, while Sabana REIT has dropped 5%, and Viva Industrial Trust and Cambridge Industrial Trust has seen only relatively mild increases of 1% and 2% respectively.<!--more-->
 
 For those who feel that they have "missed the boat", do not worry. We believe market volatilities will persist as global investors try to make sense of the ramifications of Brexit and there should be opportunities to pick up good REITs at an attractive entry price in the months to come.
 
