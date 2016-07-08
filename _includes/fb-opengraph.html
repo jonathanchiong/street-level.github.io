@@ -13,7 +13,7 @@
   <meta content="{{ site.url }}/assets/SL_Logo.png" property="og:image">
 {% endif %}
 
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="article:author" content="https://www.facebook.com/streetlevel65">
 
