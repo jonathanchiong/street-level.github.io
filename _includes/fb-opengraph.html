@@ -5,7 +5,7 @@
 {% else %}
   <meta content="website" property="og:type">
 {% endif %}
-<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.url }}">
 
 {% if page.image %}
   <meta property="og:image" content="{{ page.image }}">
