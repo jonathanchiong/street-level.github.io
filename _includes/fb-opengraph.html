@@ -7,9 +7,11 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
-
+{% if page.image %}
 <meta property="og:image" content="{{ site.imgurl }}/{{page.thumbimg}}">
-
+{% else %}
+<meta property="og:image" content="{{ site.url }}/assets/SL_Logo.png">
+{% endif %}
 
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
