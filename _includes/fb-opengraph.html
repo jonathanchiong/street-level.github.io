@@ -9,8 +9,6 @@
 
 {% if page.image %}
 <meta property="og:image" content="{{ site.imgurl }}/{{page.thumbimg}}" />
-{% else %}
-<meta property="og:image" content="{{ site.url }}/assets/SL_Logo.png">
 {% endif %}
 
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
