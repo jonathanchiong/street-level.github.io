@@ -5,9 +5,9 @@ date: 2016-07-08
 tags: brexit REIT
 published: true
 ---
-![Buildings-sg.jpg]({{site.baseurl}}/assets/Buildings-sg.jpg)
+![Buildings-sg.jpg]({{site.url}}/assets/Buildings-sg.jpg)
 
-We had [previously discussed]({{site.baseurl}}/2016/07/01/short-pain-long-opportunities.html) taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
+We had [previously discussed]({{site.url}}/2016/07/01/short-pain-long-opportunities.html) taking a long term view on post-Brexit volatility and focusing on investing in quality companies instead.
 
 Since [Brexit](https://en.wikipedia.org/wiki/United_Kingdom_withdrawal_from_the_European_Union), strong sponsor-backed REITs have outperformed their peers in what we described as a two speed market. CapitaLand Commercial Trust, Ascendas REIT and Mapletree Industrial Trust have seen their share price increase by 10%, 7% and 12% respectively, while Sabana REIT has dropped 5%, and Viva Industrial Trust and Cambridge Industrial Trust has seen only relatively mild increases of 1% and 2% respectively.<!--more-->
 
@@ -27,7 +27,7 @@ We feel that this area warrants a greater level of analysis by REIT investors. T
 ### 4. Strong balance sheet
 REITs with lower gearing and large debt headroom will enable them to act quickly on available eopportunities, especially in weak markets. Larger debt headroom also imply a reduced need to raise equity from investors for an acquisition (equity raising events can be potentially dilutive for existing investors). Another often overlooked point is the amount of portfolio encumbrance[^2], which have an impact on (future) financing costs and ability to borrow money. For example, both Mapletree Industrial Trust and CapitaLand Commercial Trust has no encumbrance on their portfolio, providing them the financial flexibility to raise additional capital when required while on the other hand Cambridge Industrial Trust has 7 of their properties under mortgage..
 
-As you can see, it is not difficult to identify good quality REITs. Some research and walking the ground will go a long way. As we mention in our [previous post]({{site.baseurl}}/2016/07/01/short-pain-long-opportunities.html), the key is finding the right entry price for such good quality REITs, and we believe the volatile markets will provide investors the opportunity to accumulate such REITs at attractive entry prices in the months to come.
+As you can see, it is not difficult to identify good quality REITs. Some research and walking the ground will go a long way. As we mention in our [previous post]({{site.url}}/2016/07/01/short-pain-long-opportunities.html), the key is finding the right entry price for such good quality REITs, and we believe the volatile markets will provide investors the opportunity to accumulate such REITs at attractive entry prices in the months to come.
 
 [^1]:Sponsors are usually the major shareholder of the REIT who in most cases have injected its own properties into the initial portfolio of the REIT at IPO.
 [^2]:Encumbrance refers to pledging a property to the bank as collateral for borrowings.
