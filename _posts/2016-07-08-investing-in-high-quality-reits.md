@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Investing in high quality REITs in an unpredictable market
-date: 2017-07-08
+date: 2016-07-08
 image: www.street-level.co/assets/Buildings-sg.jpg
 tags: brexit REIT
 published: true
