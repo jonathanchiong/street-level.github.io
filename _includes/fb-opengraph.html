@@ -7,13 +7,12 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
-
 <meta property="og:image" content="
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}
   {% if image contains 'src=' %}
     {% assign imageMarkup = image | split:">" | first %}
-    <img {{ imageMarkup }}>
+  {{ site.url }}/assets/{{ imageMarkup }}
     {% else %}
   {{ site.url }}/assets/SL_Logo.png"
   {% endif %}
