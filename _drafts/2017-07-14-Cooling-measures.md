@@ -2,11 +2,11 @@
 layout: post
 title: Cooling measures are here to stay?
 date: 2016-07-14
-image: www.street-level.co/assets/CapLand_Interlace.jpg
+image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
 ---
-
+![interlace](http://www.street-level.co/assets/CapLand-Interlace.jpg)
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
 However, what is more important on many investors' mind is when and, more importantly, under what conditions will the easing of the tight policy happen.  In today's article, we discuss four factors we believe that will be key to influencing the government to reverse the Sinapore property cooling measures.
@@ -25,13 +25,13 @@ Low interest rates encourage property speculation and given Brexit and the lack 
 ###2. Significant correction in residential property prices
 We believe that the goverment wants to achieve stable and gradually appreciating prices for residential property.  Private residential property prices has only corrected 9% from its peak in 2013.  Assume we plot a 3.0% to 3.5% growth trajectory, we think that there is still 9-12% downside for property prices before the the government will consider easing the property cooling measures.  If we project this trajectory forward, we believe that we will not see the relaxtion happen until 2018.
 
-[insert property index pictuere here]
+![interlace](http://www.street-level.co/assets/Sg-prop-index.png)
 Source: www.tradingeconomics.com | Urban Redevelopment Authority
 
 ###3.  Pipeline of residential property supply majority completed
 Supply of private residential units and executive condominiums (ECs) is to peak in 2016 with expected completion of over 27,000 units for the year.  However, we note that there is still substantial pipeline coming onboard in 2017 and 2018, which is 88% and 72% of the average supply for last 3 years.  We expect that the relaxation of property cooling measures will only come onboad once the bulk of the supply fully hits the market (which will also correspond to more moderate prices)
 
-[insert supply chart] 
+![interlace](http://www.street-level.co/assets/Sg-prop-pipeline.png)
 Source: Urban Redevelopment Authority
 
 ###4.  Moderate inflow of capital for residential properties
