@@ -10,7 +10,7 @@ published: false
 
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
-However, what is more important on many investors' mind is ##when and more importantly, under ##what conditions will the easing of the tight policy happen.  In today's article, we discuss four factors we believe that will be key to influencing the government to reverse the Sinapore property cooling measures.
+However, what is more important on many investors' mind is ### when and more importantly, under ### what conditions will the easing of the tight policy happen.  In today's article, we discuss four factors we believe that will be key to influencing the government to reverse the Singapore property cooling measures.
 
 Some market watchers thinks that the recent easing of car loan financing its a pre-cursor to the removal  of the property cooling measures implemented over 2010-2013 to curtail the rising property prices in Singapore.  We do not subscribe to this view because we believe that the ultimate objective of the goverment for car prices and property prices is fundamentally different.  
 
