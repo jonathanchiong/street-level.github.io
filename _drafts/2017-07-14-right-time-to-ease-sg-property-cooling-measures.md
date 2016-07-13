@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Right time to ease Singapore property cooling measures
-date: {}
+description: Four factors influencing the government to reverse the Singapore property cooling measures
+date: 2016-07-14
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
