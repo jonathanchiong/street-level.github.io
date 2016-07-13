@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Cooling measures are here to stay?
-date: 2016-07-14
+date: {}
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
 ---
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" alt="Interlace" style="width: 250px;"/></br>
+![CapLand-Interlace.jpg]({{site.baseurl}}/assets/CapLand-Interlace.jpg)
 
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
@@ -26,16 +26,16 @@ Low interest rates encourage property speculation and given Brexit and the lack 
 ###2. Significant correction in residential property prices
 We believe that the goverment wants to achieve stable and gradually appreciating prices for residential property.  Private residential property prices has only corrected 9% from its peak in 2013.  Assume we plot a 3.0% to 3.5% growth trajectory, we think that there is still 9-12% downside for property prices before the the government will consider easing the property cooling measures.  If we project this trajectory forward, we believe that we will not see the relaxtion happen until 2018.
 
-<img src="http://www.street-level.co/assets/Sg-prop-index.png" alt="Singapore Property Prices Index" style="width: 250px;"/><br>
+![Sg-prop-index.png]({{site.baseurl}}/assets/Sg-prop-index.png)
 Source: www.tradingeconomics.com | Urban Redevelopment Authority
 
 ###3.  Completion of majority of the current supply pipeline
 Supply of private residential units and executive condominiums (ECs) is to peak in 2016 with expected completion of over 27,000 units for the year.  However, we note that there is still substantial pipeline coming onboard in 2017 and 2018, which is 88% and 72% of the average supply for last 3 years.  We expect that the relaxation of property cooling measures will only come onboad once the bulk of the supply fully hits the market (which will also correspond to more moderate prices)
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" alt="Singapore Property Pipeline" style="width: 250px;"/><br>
+![Sg-prop-pipeline.png]({{site.baseurl}}/assets/Sg-prop-pipeline.png)
 Source: Urban Redevelopment Authority
 
 ###4.  Moderate inflow of capital for residential properties
 In the last few months, the market has seen an increase in buyers snapping up residential real estate, for both resale and new properties.  While these transactions are mainly done at lower prices, the increase in volume shows that a lot of investor monies are still sitting on the sideline looking to be deployed into the market. 
 
-Based on the factors mentioned above, we hold the view that that the easing of property cooling measures will only kick in from 2018 (or after the above benchmarks are met).  Even so, we expect the easing of property coolling meassures to take place in phases.  We expect the easing to come through a gradual step down of the ABSD and LTV. However, we believe that the TSDR and MSR to here to stay as those policies are to prevent overleverage and systematic risk to build up in the financial sector in Singapore.  This, however, does not mean we discourage investing in residential property at this point in the cycle, if you search hard enough, you may still find a good deal in the market.  
+Based on the factors mentioned above, we hold the view that that the easing of property cooling measures will only kick in from 2018 (or after the above benchmarks are met).  Even so, we expect the easing of property coolling meassures to take place in phases.  We expect the easing to come through a gradual step down of the ABSD and LTV. However, we believe that the TSDR and MSR to here to stay as those policies are to prevent overleverage and systematic risk to build up in the financial sector in Singapore.  This, however, does not mean we discourage investing in residential property at this point in the cycle, if you search hard enough, you may still find a good deal in the market.
