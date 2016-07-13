@@ -7,15 +7,15 @@ tags: Singapore property cooling measures
 published: false
 ---
 
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="400px">
-
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
 However, what is more important on many investors' mind is **when** and **under what conditions** will the easing of the tight policy happen.  In today's article, we discuss four factors we believe that will be key to influencing the government to reverse the Singapore property cooling measures.
 
+<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="400px"><br>
+
 Some market watchers believes that the recent easing of car loan financing is a pre-cursor to the removal  of the property cooling measures implemented over 2010-2013 to curtail the rising property prices in Singapore.  We do not subscribe to this view because we believe that the ultimate objective of the goverment for car prices and property prices is fundamentally different.  
 
-The goverment intends for Singapore to move into a [car-lite country] (http://www.channelnewsasia.com/news/singapore/attractive-transport/2885982.html).  Hence, it is the reasonable to assume the government's objective is to keep the prices of cars and cost of usage high to deter potential car owners.  We can see evidence of this through the recent [rise in public car park rates] (http://www.channelnewsasia.com/news/singapore/public-car-park-rates-set/2898090.html)(cited reason of rising costs of operations  is just a convenient excuse) and the [lower COE quota] (http://www.todayonline.com/singapore-fewer-COEs-available-coming-months) and low  annual vehicle growth rate of 0.25% per annun.  The easing of the car loans is meant to play a part in this direction.
+The goverment intends for Singapore to move into a [car-lite country] (http://www.channelnewsasia.com/news/singapore/attractive-transport/2885982.html).  Hence, it is the reasonable to assume the government's objective is to keep the prices of cars and cost of usage high to deter potential car owners.  We can see evidence of this through the recent [rise in public car park rates] (http://www.channelnewsasia.com/news/singapore/public-car-park-rates-set/2898090.html) (cited reason of rising costs of operations  is just a convenient excuse) and the [lower COE quota] (http://www.todayonline.com/singapore-fewer-COEs-available-coming-months) and low  annual vehicle growth rate of 0.25% per annun.  The easing of the car loans is meant to play a part in this direction.
 
 However for property prices, the government objective is to provide a stable and sustainable enviroment for long term capital appreciation.  The property cooling measures is meant to discourage foreign speculative investments and excessive leveraging.
 
@@ -27,13 +27,13 @@ Low interest rates encourage property speculation and given Brexit and the lack 
 ### 2. Significant correction in residential property prices
 We believe that the goverment wants to achieve stable and gradually appreciating prices for residential property.  Private residential property prices has only corrected 9% from its peak in 2013.  Assume we plot a 3.0% to 3.5% growth trajectory, we think that there is still 9-12% downside for property prices before the the government will consider easing the property cooling measures.  If we project this trajectory forward, we believe that we will not see the relaxtion happen until 2018.
 
-<img src="http://www.street-level.co/assets/Sg-prop-index.png" width="400px">
+<img src="http://www.street-level.co/assets/Sg-prop-index.png" width="600px"><br>
 <sup>Source: www.tradingeconomics.com | Urban Redevelopment Authority</sup>
 
 ### 3.  Completion of majority of the current supply pipeline
 Supply of private residential units and executive condominiums (ECs) is to peak in 2016 with expected completion of over 27,000 units for the year.  However, we note that there is still substantial pipeline coming onboard in 2017 and 2018, which is 88% and 72% of the average supply for last 3 years.  We expect that the relaxation of property cooling measures will only come onboad once the bulk of the supply fully hits the market (which will also correspond to more moderate prices)
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" width="400px">
+<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" width="600px"><br>
 <sup>Source: Urban Redevelopment Authority</sup>
 
 ### 4.  Moderate inflow of capital for residential properties
