@@ -6,7 +6,7 @@ image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
 ---
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" alt="Interlace" style="width: 350px;"/></br>
+<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" alt="Interlace" style="width: 250px;"/></br>
 
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
@@ -32,7 +32,7 @@ Source: www.tradingeconomics.com | Urban Redevelopment Authority
 ###3.  Pipeline of residential property supply majority completed
 Supply of private residential units and executive condominiums (ECs) is to peak in 2016 with expected completion of over 27,000 units for the year.  However, we note that there is still substantial pipeline coming onboard in 2017 and 2018, which is 88% and 72% of the average supply for last 3 years.  We expect that the relaxation of property cooling measures will only come onboad once the bulk of the supply fully hits the market (which will also correspond to more moderate prices)
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" alt="Singapore Property Prices Index" style="width: 250px;"/><br>
+<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" alt="Singapore Property Pipeline" style="width: 250px;"/><br>
 Source: Urban Redevelopment Authority
 
 ###4.  Moderate inflow of capital for residential properties
