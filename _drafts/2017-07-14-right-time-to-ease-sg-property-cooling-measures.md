@@ -6,7 +6,8 @@ image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
 ---
-<img src=({{site.baseurl}}/assets/CapLand-Interlace.jpg width="214px" height="303px">
+
+<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="400px">
 
 Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that we won't see a reversal in the [cooling measures] (http://www.srx.com.sg/cooling-measures) in Singapore residential property market in the near future.
   
