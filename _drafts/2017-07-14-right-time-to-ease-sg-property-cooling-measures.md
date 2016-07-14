@@ -9,9 +9,7 @@ published: false
 ---
 <img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="400px"><br>
 
-Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures] (http://www.srx.com.sg/cooling-measures) would not happen in the near future.
-  
-Rather than trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess **under what conditions** will the easing of the cooling measures and **how** it will be done when it happens. <!--more-->
+Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures] (http://www.srx.com.sg/cooling-measures) would not take place in the near future.  Instead of trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess **under what conditions** will the easing of the cooling measures and **how** it will be done when it happens. <!--more-->
 
 ### What is the government trying to achieve?
 Some market watchers believes that the recent easing of car loan financing is a pre-cursor to the removal of the cooling measures implemented over 2010-2013.  We do not subscribe to this view because we believe that the ultimate intent of the government for the direction of car prices and property prices is fundamentally different.  
