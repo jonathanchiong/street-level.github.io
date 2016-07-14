@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Right time to ease Singapore property cooling measures
-description: Four factors influencing the government to reverse the Singapore property cooling measures
+title: Right time to invest in Singapore residential properties?
+description: Factors influencing the government to reverse the Singapore property cooling measures
 date: 2016-07-14
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
@@ -28,7 +28,7 @@ Low interest rates encourage property speculation.  Given Brexit and the lack of
 **2. Significant correction in residential property prices**<br>
 In an attempt to figure out the price level at is a sufficient correction, we plot a 3% to 3.5% growth trajectory for property prices (refer to diagram below). Private residential property prices has only corrected 9% from its peak in 2013.  Based on the assumed growth trajectory, we think that there is still a 9% to 12% downside for property prices before the easing of the cooling measures make sense.  Projecting this forward, we believe that we will not see the easing happen until at least 2018.
 
-<img src="http://www.street-level.co/assets/Sg-prop-index.png" width="600px"><br>
+<img src="http://www.street-level.co/assets/Sg-prop-index-Jul16.png" width="600px"><br>
 <sup>Source: www.tradingeconomics.com | Urban Redevelopment Authority</sup>
 
 **3. Completion of majority of the supply pipeline**<br>
@@ -37,7 +37,7 @@ In addition, the market has seen an increase in buyers snapping up residential r
 
 A soft landing is what we believe the government wants to achieve, and a premature easing would likely cause a blip and then a drop in property prices - not an ideal scenario.
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline.png" width="600px"><br>
+<img src="http://www.street-level.co/assets/Sg-prop-pipeline-Jul16.png" width="600px"><br>
 <sup>Source: Urban Redevelopment Authority</sup>
 
 For the reasons mentioned above, we hold the view that that the easing of property cooling measures will only take place, earliest in 2018 (or after the above benchmarks are met). This, however, does not mean we discourage investing in residential property at this point in the cycle, if you search hard enough, you may still find a good deal in the market.
