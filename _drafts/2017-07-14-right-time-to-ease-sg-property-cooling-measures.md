@@ -7,9 +7,9 @@ image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore property cooling measures
 published: false
 ---
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="400px"><br>
+<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="500px"><br>
 
-Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures] (http://www.srx.com.sg/cooling-measures) would not take place in the near future.  Instead of trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess <u>**under what conditions**</u> will the easing of the cooling measures and <u>**how it will be done**</u> when it happens. <!--more-->
+Many real estate experts now concur on the [view] (http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures] (http://www.srx.com.sg/cooling-measures) would not take place in the near future.  Instead of trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess **<u>under what conditions</u>** will the easing of the cooling measures and **<u>how it will be done</u>** when it happens. <!--more-->
 
 ### What is the government trying to achieve?
 Some market watchers believes that the recent easing of car loan financing is a pre-cursor to the removal of the cooling measures implemented over 2010-2013.  We do not subscribe to this view because we believe that the ultimate intent of the government for the direction of car prices and property prices is fundamentally different.  
@@ -22,16 +22,16 @@ However in relation to property, the government's primary objective is to provid
 
 We believe that the following signs will be crucial to influencing the government to reverse the Singapore property cooling measures.
 
-**1. Rising interest rates**
+**1. Rising interest rates**<br>
 Low interest rates encourage property speculation.  Given Brexit and the lack of direction of the global economy, it is expected that the US interest rates and, correspondingly the Singapore interest rates will remain low for the remaining of 2016, 2017 and we would argue even 2018.  **We believe that government will wait for a rise in interest rates (hence increasing the debt servicing burden) before they will consider a relaxation of the cooling measures.**
 
-**2. Significant correction in residential property prices**
+**2. Significant correction in residential property prices**<br>
 In an attempt to figure out the price level at is a sufficient correction, we plot a 3% to 3.5% growth trajectory for property prices (refer to diagram below). Private residential property prices has only corrected 9% from its peak in 2013.  Based on the assumed growth trajectory, we think that there is still a 9% to 12% downside for property prices before the easing of the cooling measures make sense.  Projecting this forward, we believe that we will not see the easing happen until at least 2018.
 
 <img src="http://www.street-level.co/assets/Sg-prop-index.png" width="600px"><br>
 <sup>Source: www.tradingeconomics.com | Urban Redevelopment Authority</sup>
 
-**3. Completion of majority of the supply pipeline**
+**3. Completion of majority of the supply pipeline**<br>
 Supply of private residential units and executive condominiums (ECs) is set to peak in 2016 with expected completion at over 27,000 units.  However, we note that there is still substantial completion pipeline coming onboard in 2017 and 2018, which is 88% and 72% of the average supply for last 3 years.  We believe that the government will want to wait for the bulk of this supply to hit the market (which will correspond to more moderate property prices) and assess the impact before considering any easing of the cooling measures.  
 In addition, the market has seen an increase in buyers snapping up residential real estate (both resale and new properties) in the last few months.  While these transactions are mainly done at lower prices, the increase in volume shows that a lot of investors are still sitting on the sideline waiting to be deployed money into the property market when the prices are right. 
 
