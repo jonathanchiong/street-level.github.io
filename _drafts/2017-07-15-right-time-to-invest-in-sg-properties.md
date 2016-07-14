@@ -42,7 +42,7 @@ A soft landing is what we believe the government wants to achieve, and a prematu
 
 For the reasons mentioned above, we hold the view that that the easing of property cooling measures will only take place, earliest in 2018 (or after the above benchmarks are met). This, however, does not mean we discourage investing in residential property at this point in the cycle, if you search hard enough, you may still find a good deal in the market.
 
-### How will it happen when it happens?
+### How will it be done when it happens?
 We expect the easing of the property cooling meassures to take place over various phases, consistent with our view of a soft landing. The easing should start with a gradual step down of the Additional Buyers Stamp Duty (ABSD) and moderate increase in the allowable Loan-to-Value (LTV) ratio. 
 
 However, we believe that the cap on Total Debt Servicing Ratio (TSDR) and the Mortgage Service Ratio (MSR) is here to stay, as those policies are meant to prevent excessive leveraging and systematic risk from building up in Singapore.  
