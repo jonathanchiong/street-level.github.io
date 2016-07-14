@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Right time to invest in Singapore residential properties?
-description: Factors influencing the government to reverse the Singapore property cooling measures
+description: Signs to watch out for on the easing of property cooling measures
 date: 2016-07-15
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: Singapore residential property, cooling measures, Investing in Singapore property
