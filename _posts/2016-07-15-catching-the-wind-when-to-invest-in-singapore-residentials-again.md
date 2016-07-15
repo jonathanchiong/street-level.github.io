@@ -41,7 +41,7 @@ A soft landing is what we believe the Government wants to achieve and a prematur
 <img src="http://www.street-level.co/assets/Sg-prop-pipeline-Jul16.png" width="600px"><br>
 <sup>Source: Urban Redevelopment Authority</sup>
 
-For reasons outlined above, we hold the view that that the easing of property cooling measures will only likely take place 2018 at the earliest (after the above benchmarks are met). Select opportunities remain but given the potential for further downside, as with all things, *caveat emptor*.
+For reasons outlined above, we hold the view that that the easing of property cooling measures will only likely take place in 2018 at the earliest (after the above benchmarks are met). Select opportunities remain but given the potential for further downside, as with all things, *caveat emptor*.
 
 ### How will it be done when it happens?
 We expect the easing of the property cooling meassures to take place via controlled phases, consistent with our view of a soft landing. The easing is likely to start with a gradual step down of the Additional Buyers Stamp Duty ("ABSD") and moderate increase in the allowable LTV ratio. 
