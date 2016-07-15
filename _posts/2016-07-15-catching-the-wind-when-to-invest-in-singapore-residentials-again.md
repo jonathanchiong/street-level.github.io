@@ -7,7 +7,7 @@ image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: 'singapore, residential, cooling measures, investment'
 published: true
 ---
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="500px">
+<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="500px"><br>
 
 Many real estate experts now concur on the [view](http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures](http://www.srx.com.sg/cooling-measures) would not take place in the near future. Instead of trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess **<u>under what conditions</u>** will the cooling measures be eased and **<u>how it will likely be done</u>** when it happens.<!--more-->
 
