@@ -23,7 +23,7 @@ We believe that the following key factors will be crucial in the Government's co
 
 **1. Rising interest rates**
 
-Low interest rates encourage property speculation through cheap money. Given Brexit and the lack of direction of the global economy, we expect US interest rates and correspondingly the Singapore interest rates to remain low for the remainder of 2016, full year 2017 and arguably even early 2018. **We believe that Government will wait for a rise in interest rates (and the subsquently fall in asset prices) before they will consider a relaxation of the cooling measures.**
+Low interest rates encourage property speculation through cheap money. Given Brexit and the lack of direction of the global economy, we expect US interest rates and correspondingly the Singapore interest rates to remain low for the remainder of 2016, full year 2017 and arguably even early 2018. **We believe the Government will wait for a rise in interest rates (and the subsquently fall in asset prices) before they will consider a relaxation of the cooling measures.**
 
 **2. Significant correction in residential property prices**
 
