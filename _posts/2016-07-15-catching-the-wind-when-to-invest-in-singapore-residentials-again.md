@@ -2,7 +2,7 @@
 layout: post
 title: Catching the Wind ― When to Invest in Singapore Residentials Again
 description: Signs to watch out for on the easing of property cooling measures
-date: {}
+date: 2016-07-15
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: 'singapore, residential, cooling measures, investment'
 published: true
