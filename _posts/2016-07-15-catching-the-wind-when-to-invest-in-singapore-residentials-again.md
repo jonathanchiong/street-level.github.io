@@ -5,7 +5,7 @@ description: Signs to watch out for on the easing of property cooling measures
 date: {}
 image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: 'singapore, residential, cooling measures, investment'
-published: false
+published: true
 ---
 <img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="350px">
 
