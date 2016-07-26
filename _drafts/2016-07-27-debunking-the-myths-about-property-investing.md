@@ -46,7 +46,8 @@ http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-20
 http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc<br>
 
 
-In conclusion, buying a property doesn't make one a property investor.  Most are just property speculators (buying and praying that the price will go up in a few years).  Reading up news articles and "investment opinions" from "experts" aint really proper research.  True investors do their homework by carefully analysing the market, identifying the risk factors, calcuating the numbers, and make an informed assessment of their purchase price.  If you are really keen to grow your wealth through property investing, do your homework and it will see you through a long way.  
+**Final words
+Buying a property doesn't make one a property investor.  Most are just property speculators (buying and praying that the price will go up in a few years).  Reading up news articles and "investment opinions" from "experts" aint really proper research.  True investors do their homework by carefully analysing the market, identifying the risk factors, calcuating the numbers, and make an informed assessment of their purchase price.  If you are really keen to grow your wealth through property investing, do your homework and it will see you through a long way.  
 
 
 "If you have been in a poker game for a while, and you still don’t know who the patsy is, you’re the patsy" - Warren Buffet
