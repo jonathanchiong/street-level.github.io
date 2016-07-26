@@ -7,7 +7,7 @@ image: www.street-level.co/assets/Prop-invest.jpg
 tags: 'singapore property, property investing, property myths'
 published: false
 ---
-<img src="http://www.street-level.co/assets/Prop-invest.jpg" width="300px"><br>
+<img src="http://www.street-level.co/assets/Prop-invest.jpg" width="400px"><br>
 <sup>Designed by Freepik</sup><br>
 
 Investing in real estate is a popular way, among Singaporeans, to grow their wealth.  However, there are some common and persistant 
@@ -41,12 +41,12 @@ different objectives.
 The so-call experts - property developers, agents, consultants, banks, asset managers, investment companiees - always have a vested 
 interest in the market.  Why would you follow someone who will potentially benefit from you transacting in the market?  These "experts" make money regardless of whether you do or not.  Media also tend to sensationalized news or they report only what the "experts" want them to. 
 
-Looking back to recent years, rarely any of these “experts” really predicted the global financial crisis or property downturns. "Expert" predictions were always up and positive. Here are a few examples from these "experts":
-http://sbr.com.sg/residential-property/in-focus/which-property-cooling-measures-will-be-eased-in-2015
-http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report
-http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc
+Looking back to recent years, rarely any of these “experts” really predicted the global financial crisis or property downturns. "Expert" predictions were always up and positive. Here are a few examples from these "experts":<br>
+http://sbr.com.sg/residential-property/in-focus/which-property-cooling-measures-will-be-eased-in-2015<br>
+http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report<br>
+http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc<br>
 
 
-Buying a property doesn't make one a property investor.  Most are just property speculators (buying and praying that the price will go up in a few years).  Reading up news articles and "investment opinions" from "experts" aint really proper research.  True investors do their homework by carefully analysing the market, identifying the risk factors, calcuating the numbers, and make an informed assessment of their purchase price.  If you are really keen to grow your wealth through property investing, do your homework and it will see you through a long way.  
+In conclusion, buying a property doesn't make one a property investor.  Most are just property speculators (buying and praying that the price will go up in a few years).  Reading up news articles and "investment opinions" from "experts" aint really proper research.  True investors do their homework by carefully analysing the market, identifying the risk factors, calcuating the numbers, and make an informed assessment of their purchase price.  If you are really keen to grow your wealth through property investing, do your homework and it will see you through a long way.  
 
 "If you have been in a poker game for a while, and you still don’t know who the patsy is, you’re the patsy" - Warren Buffet
