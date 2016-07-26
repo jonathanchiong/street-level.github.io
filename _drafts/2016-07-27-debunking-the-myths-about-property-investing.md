@@ -12,7 +12,7 @@ myths around property investing.  In today's article, we discuss how potential i
 traps. <br>
 
 <img src="http://www.street-level.co/assets/Prop-invest.jpg" width="400px"><br>
-<sup>Designed by Freepik</sup><br>
+<sup>Designed by Freepik.com</sup><br>
 
 ##1.  You always make money in property investment in the long run / property prices will always go up.
 People generally has the notion that real estate are "safe" investments, and you can't go wrong investing in real estate.  We think this is in part attributed to the emotional element of holding a physical real estate, something investor can touch and feel, and this give investors the false sense of security that real estate is safer versus other paper assets such as a stock or bond.  But is that really true?  
