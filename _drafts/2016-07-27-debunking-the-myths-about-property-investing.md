@@ -7,13 +7,12 @@ image: www.street-level.co/assets/Prop-invest.jpg
 tags: 'singapore property, property investing, property myths'
 published: false
 ---
-<img src="http://www.street-level.co/assets/Prop-invest.jpg" width="400px"><br>
-<sup>Designed by Freepik</sup><br>
-
 Investing in real estate is a popular way, among Singaporeans, to grow their wealth.  However, there are some common and persistant 
 myths around property investing.  In today's article, we discuss how potential investors can invest smartly and avoid some of these 
-traps. 
+traps. <br>
 
+<img src="http://www.street-level.co/assets/Prop-invest.jpg" width="400px"><br>
+<sup>Designed by Freepik</sup><br>
 
 ##1.  You always make money in property investment in the long run / property prices will always go up.
 People generally has the notion that real estate are "safe" investments, and you can't go wrong investing in real estate.  We think this is in part attributed to the emotional element of holding a physical real estate, something investor can touch and feel, and this give investors the false sense of security that real estate is safer versus other paper assets such as a stock or bond.  But is that really true?  
@@ -48,5 +47,6 @@ http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc<br>
 
 
 In conclusion, buying a property doesn't make one a property investor.  Most are just property speculators (buying and praying that the price will go up in a few years).  Reading up news articles and "investment opinions" from "experts" aint really proper research.  True investors do their homework by carefully analysing the market, identifying the risk factors, calcuating the numbers, and make an informed assessment of their purchase price.  If you are really keen to grow your wealth through property investing, do your homework and it will see you through a long way.  
+
 
 "If you have been in a poker game for a while, and you still don’t know who the patsy is, you’re the patsy" - Warren Buffet
