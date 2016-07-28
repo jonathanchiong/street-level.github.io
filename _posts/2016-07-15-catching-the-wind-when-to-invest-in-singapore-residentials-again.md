@@ -7,7 +7,7 @@ image: www.street-level.co/assets/CapLand-Interlace.jpg
 tags: 'singapore, residential, cooling measures, investment'
 published: true
 ---
-<img src="http://www.street-level.co/assets/CapLand-Interlace.jpg" width="500px"><br>
+<img src="{{site.url}}/assets/CapLand-Interlace.jpg" width="500px"><br>
 <sup>The Interlace | CapitaLand</sup><br>
 
 Many real estate experts now concur on the [view](http://www.businesstimes.com.sg/real-estate/no-lifting-of-property-cooling-measures-till-2017-redas-seminar-speakers) that a reversal in the Singapore property [cooling measures](http://www.srx.com.sg/cooling-measures) would not take place in the near future. Instead of trying to pinpoint a date for that to happen, we feel it is more relevant for potential investors to assess *under what conditions* the cooling measures be eased and *how it will likely be done* when it happens.<!--more-->
@@ -30,7 +30,7 @@ Low interest rates encourage property speculation through cheap money. Given Bre
 
 How much would residential property prices need to adjust for the Government to remove the cooling measures? If we assumed a 3% to 3.5% natural growth trajectory for property prices (per diagram below), private residential property prices has only corrected 9% since its peak in 2013. As such, we believe that there is still c.9% to 12% downside for property prices before the easing of the cooling measures might take place. Projecting this forward, we believe the easing is not likely to happen until at least 2018.
 
-<img src="http://www.street-level.co/assets/Sg-prop-index-Jul16.png" width="600px"><br>
+<img src="{{site.url}}/assets/Sg-prop-index-Jul16.png" width="600px"><br>
 <sup>Source: www.tradingeconomics.com | Urban Redevelopment Authority</sup>
 
 **3. Completion of majority of the supply pipeline**
@@ -39,7 +39,7 @@ Supply of private residential units and executive condominiums ("EC") is set to 
 
 A soft landing is what we believe the Government wants to achieve and a premature easing would likely cause a blip and then a drop in property prices ― not an ideal scenario.
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline-Jul16.png" width="600px"><br>
+<img src="{{site.url}}/assets/Sg-prop-pipeline-Jul16.png" width="600px"><br>
 <sup>Source: Urban Redevelopment Authority</sup>
 
 For reasons outlined above, we hold the view that that the easing of property cooling measures will only likely take place in 2018 at the earliest (after the above benchmarks are met). Select opportunities remain but given the potential for further downside, as with all things, *caveat emptor*.
