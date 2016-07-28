@@ -2,7 +2,7 @@
 layout: post
 title: Debunking Property Investment Myths
 description: Avoiding common traps when investing in property
-date: 2016-07-27
+date: 2016-07-28
 image: www.street-level.co/assets/Prop-invest.jpg
 tags: 'singapore, property, investing, myths'
 published: false
@@ -13,11 +13,11 @@ Investing in real estate is a popular way amongst Singaporeans to grow their wea
 <sup>Designed by Freepik.com</sup><br>
 
 ### 1. You will always make money in real estate investment or "property prices always rise"
-Folks have the general notion that real estate are "safe" investments or (our favorite), "You can't go wrong investing in Singapore real estate!". We think this is partly attributed to the emotional security of holding a tangible asset, something you can reach out and touch. This give investors a false sense of security that real estate is safer relative to other intangible assets such as a stock or bond certificate. But is that really true? 
+Folks have the general notion that real estate are "safe" investments or (our favorite) "You can't go wrong investing in Singapore real estate!". We think this is partly attributed to the emotional security of holding a tangible asset, something you can reach out and touch. This give investors a false sense of security that real estate is safer relative to other intangible assets such as a stock or bond certificate. But is that really true? 
 
 If you look at [recent transacted data](http://www.theedgeproperty.com.sg/content/huge-losses-despite-nine-year-holding-period), the theory does not quite pass muster. Out of the recent 25 residential property transactions dated June 28 to July 5, 10 are not profitable (40% of the transactions). Even amongst the profitable deals, only one managed a double digit annualized return. The remaining on average achieved only a mid-single digit annualized return (slightly better than the inflation rate) after holding onto the property for a number of years in most instances. Naturally for the unprofitable deals, the investors likely suffered a significant loss on their equity magnified by the typical high leverage used.
 
-Real estate is a cyclical asset class with returns largely driven by interest rates and regulations (as things stand). Gone are our parent's days when Singapore was still a developing high growth market which in turn drove property prices. Singapore is now a mature and developed city with muted capital growth and income yields. Potential investors need to be cautious about their entry price to ensure they do not get caught in the wrong asset cycle.
+Real estate is a cyclical asset class with returns largely driven by interest rates and regulations (as things stand). Gone are our parent's days when Singapore was still a developing high growth market which in turn drove property prices. Singapore is now a mature and developed city with slower capital growth and lower income yields. Potential investors need to be cautious about their entry price to ensure they do not get caught in the wrong part of the property cycle.
 
 ### 2. Property investment provides you with passive income 
 Again a common misconception. Take for example a 2-bedroom condominium in District 10 costing S$1.6 million. Assuming a mortgage of 80%, i.e. a c.S$1.3 million property loan and a repayment period of 30 years with a 1.8% interest rate, the resulting monthly repayment is c.S$4,600.
@@ -32,9 +32,9 @@ Not only will an investor not receive any passive income, they will have to serv
 You cannot realize the value of your residential property until you sell (and even then, you need to buy again to put a roof over your head). Hence, we suggest investors should exclude their current residence from their investment portfolios as they ultimately have different objectives. 
 
 ### 4. Relying on Expert Investment Opinions
-Market participants, e.g. property developers, consultants, brokers, asset managers, investment companies, associations, sellside research - have a vested interest in the market. Be aware of advice or media reports from participants when their income is derived from investors making a transaction. Always ask, ["Cui bono?"](https://en.wikipedia.org/wiki/Cui_bono).
+Market participants, e.g. property developers, consultants, brokers, asset managers, investment companies, associations, sellside research - have a vested interest in the market. Be aware of advice or media reports from participants where their income is derived from investors making a transaction. Always ask, ["Cui bono?"](https://en.wikipedia.org/wiki/Cui_bono).
 
-It is really difficult to time or predict the property cycle. Although we appreciate that hindsight is always 20/20, here are some recent examples to show how tough it is to make the right market call - looking back now that we are in July 2016:
+It is really challenging to time or predict the property cycle. Although we appreciate that hindsight is always 20/20, here are some recent examples to show how tough it is to make the right market call - looking back now that we are in July 2016:
 - http://sbr.com.sg/residential-property/in-focus/which-property-cooling-measures-will-be-eased-in-2015
 - http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report
 - http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc
