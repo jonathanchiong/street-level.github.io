@@ -8,7 +8,7 @@ tags: 'singapore, property, investing, myths'
 published: true
 ---
 
-Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.<!--more-->
+Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.
 
 <img src="{{site.url}}/assets/Prop-invest.jpg" width="350px"><br>
 <sup>Designed by Freepik.com</sup><!--more-->
