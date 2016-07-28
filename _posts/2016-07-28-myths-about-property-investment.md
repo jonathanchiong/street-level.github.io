@@ -36,6 +36,7 @@ You cannot realize the value of your residential property until you sell (and ev
 Market participants, e.g. property developers, consultants, brokers, asset managers, investment companies, associations, sellside research - have a vested interest in the market. Be aware of advice or media reports from participants where their income is derived from investors making a transaction. Always ask, ["Cui bono?"](https://en.wikipedia.org/wiki/Cui_bono).
 
 It is really challenging to time or predict the property cycle. Although we appreciate that hindsight is always 20/20, here are some recent examples to show how tough it is to make the right market call - looking back now that we are in July 2016:
+
 - http://sbr.com.sg/residential-property/in-focus/which-property-cooling-measures-will-be-eased-in-2015
 - http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report
 - http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc
