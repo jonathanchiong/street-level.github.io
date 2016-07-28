@@ -3,10 +3,11 @@ layout: post
 title: Debunking Property Investment Myths
 description: Avoiding common traps when investing in property
 date: 2016-07-28
-image: {{site.url}}/assets/Prop-invest.jpg
+image: www.street-level.co/assets/Prop-invest.jpg
 tags: 'singapore, property, investing, myths'
 published: true
 ---
+
 Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions. <!--more-->
 
 <img src="{{site.url}}/assets/Prop-invest.jpg" width="350px"><br>
