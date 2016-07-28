@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debunking Property Investment Myths
+title: Myths about Property Investment
 description: Avoiding common traps when investing in property
 date: 2016-07-28
 image: www.street-level.co/assets/Prop-invest.jpg
