@@ -38,8 +38,8 @@ Market participants, e.g. property developers, consultants, brokers, asset manag
 It is really challenging to time or predict the property cycle. Although we appreciate that hindsight is always 20/20, here are some recent examples to show how tough it is to make the right market call - looking back now that we are in July 2016:
 
 - <http://sbr.com.sg/residential-property/in-focus/which-property-cooling-measures-will-be-eased-in-2015>
-- (http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report)
-- [http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc]
+- <http://business.asiaone.com/property/news/property-curbs-may-be-eased-only-h2-2015-report>
+- <http://business.asiaone.com/news/sibor-hit-more-2-cent-end-2016-ocbc>
 
 ### Final words
 We differentiate between investing in properties vs. speculating in properties (buying and praying that the price will go up in a few years). Relying solely on news articles and "investment opinions" is insufficient. Given the size of the capital commitment required for any real estate investment, it behoves us to do our homework by carefully analyzing the market landscape, identifying risk factors and running the numbers before making an informed decision on their investment.
