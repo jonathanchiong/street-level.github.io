@@ -10,7 +10,7 @@ published: true
 
 Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.
 
-<img src="{{site.url}}/assets/Prop-invest.jpg" width="350px"><br>
+<img src="{{site.url}}/assets/Prop-invest.jpg" width="300px"><br>
 <sup>Designed by Freepik.com</sup><!--more-->
 
 ### 1. You will always make money in real estate investment or "property prices always rise"
