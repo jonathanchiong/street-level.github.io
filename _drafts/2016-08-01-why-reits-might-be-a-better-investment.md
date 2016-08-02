@@ -16,7 +16,7 @@ Singapore REITs (S-REITs) are the one of the best yielding in the world comparin
 
 In the table below, we highlight some of the pros and cons of investing in REIT comparing with investing in private residential property.
 
-<img src="www.street-level.co/assets/REIT-vs-resi-table.png" width="500px"><br>
+<img src="http://www.street-level.co/assets/REIT-vs-resi-table.png" width="800px"><br>
 
 For more information on how to build up a strong dividend yield REIT portfolio, contact us at streetlevel65@gmail.com
 
