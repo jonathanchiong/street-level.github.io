@@ -23,4 +23,4 @@ In the table below, we highlight some of the pros and cons of investing in REITs
 
 <img src="http://www.street-level.co/assets/REIT-vs-resi-table.png" width="700px"><br>
 
-We are interested on your thoughts about building up a strong dividend yielding REIT portfolio. Leave your comments below to discuss!
+We are interested in your thoughts about building up a strong dividend yielding REIT portfolio. Leave your comments below to discuss!
