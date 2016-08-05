@@ -3,11 +3,11 @@ layout: post
 title: Why REITs might be a better investment than residential property
 description: Why REITs might be a better investment than residential property
 date: 2016-08-05T00:00:00.000Z
-image: 'http://www.street-level.co/assets/Fullerton-bay-buildings.jpg'
+image: '{{site.url}}/assets/Fullerton-bay-buildings.jpg'
 tags: 'REIT, residential, property, investment'
 published: true
 ---
-<img src="http://www.street-level.co/assets/Fullerton-bay-buildings.jpg" width="500px"><br>
+<img src="{{site.url}}/assets/Fullerton-bay-buildings.jpg" width="500px"><br>
 
 Singaporeans usually prefers to invest in private residential properties as compared to Real Estate Investment Trust (REITs). We believe this is largely due to the 
 1. Emotional security from holding a tangible asset
@@ -21,6 +21,6 @@ We believe there is a general lack of understanding in REITs investments. For ex
 
 In the table below, we highlight some of the pros and cons of investing in REITs as compared with investing in private residential property.
 
-<img src="http://www.street-level.co/assets/REIT-vs-resi-table.png" width="700px"><br>
+<img src="{{site.url}}/assets/REIT-vs-resi-table.png" width="700px"><br>
 
 We are interested in your thoughts about building up a strong dividend yielding REIT portfolio. Leave your comments below to discuss!
