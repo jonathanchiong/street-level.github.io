@@ -2,10 +2,10 @@
 layout: post
 title: Why REITs might be a better investment than residential property
 description: Why REITs might be a better investment than residential property
-date: 2016-08-04T00:00:00.000Z
+date: 2016-08-05T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Fullerton-bay-buildings.jpg'
 tags: 'REIT, residential, property, investment'
-published: false
+published: true
 ---
 <img src="http://www.street-level.co/assets/Fullerton-bay-buildings.jpg" width="500px"><br>
 
