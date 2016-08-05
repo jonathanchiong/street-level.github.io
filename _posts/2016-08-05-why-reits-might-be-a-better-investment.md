@@ -10,6 +10,7 @@ published: true
 <img src="{{site.url}}/assets/Fullerton-bay-buildings.jpg" width="500px"><br>
 
 Singaporeans usually prefers to invest in private residential properties as compared to Real Estate Investment Trust (REITs). We believe this is largely due to
+
 1. Emotional security from holding a tangible asset
 2. Potential for sizable capital gains
 3. Familarity with the asset class & revenue model (everyone stays in one & renting out a property is simple to understand)
