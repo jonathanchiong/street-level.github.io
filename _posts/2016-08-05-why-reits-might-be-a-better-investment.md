@@ -14,6 +14,7 @@ Singaporeans usually prefers to invest in private residential properties as comp
 1. Emotional security from holding a tangible asset
 2. Potential for sizable capital gains
 3. Familarity with the asset class & revenue model (everyone stays in one & renting out a property is simple to understand)
+
 However, the merits of investing in REITs could far outweigh the reasons for investing in residential property (and the risks are arguably easier to manage).<!--more-->
 
 We believe there is a general lack of understanding in REITs investments. For example, people have the notion that REITs have high income yield but low capital gains. However, as REITs (which are essentially "bite-size' real estate) are traded on the stock exchange, the share price of a REIT is subject to market volatilities and frivolities - moving according to market sentiments, even when the underlying real estate do not change in value on a day-to-day basis. This "mis-pricing" by Mr. Market allows shrewd investors to take advantage of the price movements to make a sizable capital gain on top of income distribution.
