@@ -21,7 +21,7 @@ We believe there is a general lack of understanding in REITs investments. For ex
 
 **Singapore REITs ("S-REIT") are the one of the best yielding in the world as compared with other established REIT markets such as the US, UK, Japan and Australia.** Potential investors who likes exposure to the real estate sector can look at S-REITs as a viable alternative to private residential property. REITs allow retail investor who do not have a huge capital base to start investing via small capital outlays and build up a portfolio of good yielding REITs over time. As an exchange traded instrument, it is also more liquid, allowing investors to invest and divest much more easily compared to holding onto an actual brick and mortar property. There is also no need to consider the impact of Additional Stamp Duties.
 
-In the table below, we highlight some of the pros and cons of investing in REITs as compared with investing in private residential property.
+In the table below, we compare the differences between investing in REITs with investing in private residential property.
 
 <img src="{{site.url}}/assets/REIT-vs-resi-table.png" width="700px"><br>
 
