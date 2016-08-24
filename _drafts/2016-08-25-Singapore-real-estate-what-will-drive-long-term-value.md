@@ -7,7 +7,7 @@ image: '{{site.url}}/assets/Fullerton-bay-buildings.jpg'
 tags: 'Singapore, property, investment, outlook'
 published: false
 ---
-<img src="{{site.url}}/assets/Fullerton-bay-buildings.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/PSA-Landscape.jpg" width="500px"><br>
 
 [Latest estimates](http://www.straitstimes.com/business/economy/signs-of-slow-growth-ahead) from the Ministry of Trade and Industry indicates that Singapore's economy is forecast to grow by 1-2% in 2016.  Against the backdrop of continued slow growth and the [gloomy economic climate](http://www.bloomberg.com/news/articles/2016-08-14/singaporeans-worried-over-jobs-and-pay-are-glummest-since-2009), we think it is timely to take a step back to consider where Singapore is currently, what the economy would look like in the next 20 years and consider what will drive Singapore real estate value in the long run.<!--more-->
 
