@@ -7,9 +7,10 @@ image: '{{site.url}}/assets/Fullerton-bay-buildings.jpg'
 tags: 'Singapore, property, investment, outlook'
 published: false
 ---
-<img src="http://www.street-level.co/assets/PSA-Landscape.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/PSA-Landscape.jpg" width="500px">
+<sup>Picture from Gov.Sg | PSA Singapore Terminals</sup><br>
 
-[Latest estimates](http://www.straitstimes.com/business/economy/signs-of-slow-growth-ahead) from the Ministry of Trade and Industry indicates that Singapore's economy is forecast to grow by 1-2% in 2016.  Against the backdrop of continued slow growth and the [gloomy economic climate](http://www.bloomberg.com/news/articles/2016-08-14/singaporeans-worried-over-jobs-and-pay-are-glummest-since-2009), we think it is timely to take a step back to consider where Singapore is currently, what the economy would look like in the next 20 years and consider what will drive Singapore real estate value in the long run.<!--more-->
+[Latest estimates](http://www.straitstimes.com/business/economy/signs-of-slow-growth-ahead) from the Ministry of Trade and Industry indicates that Singapore's economy is forecast to grow by 1-2% in 2016.  Against the backdrop of continued slow growth and the [gloomy economic climate](http://www.bloomberg.com/news/articles/2016-08-14/singaporeans-worried-over-jobs-and-pay-are-glummest-since-2009), we think it is timely to take a step back to consider where Singapore is currently, what the economy would look like in the next 20 years and consider what will drive Singapore real estate value in the long run. <!--more-->
 
 ### Singapore is now a mature economy, lower growth is the new normal
 Singapore's economy has evolved significantly since the country's independence in 1965. The country has moved from a third world to a first world nation in a short span of over 30 years. From the 70s to the 90s, the country has been on a fast-growth mode with the GDP growing at an average rate of 8.2% per annum.  However, the growth of the economy has since slowed to an average of 5.5% per annum from 2000 to 2015, reflecting the more mature and developed nature of the econony.  We need to recognize and get used to the fact that Singapore is now on a diffferent growth trajectory and will see slower growth going forward.  IMF have forecasted Singapore to grow at an average of 2.4% per annum from 2016 - 2021.  
