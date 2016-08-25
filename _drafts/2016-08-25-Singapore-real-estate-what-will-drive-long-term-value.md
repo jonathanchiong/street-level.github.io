@@ -7,7 +7,7 @@ image: '{{site.url}}/assets/Fullerton-bay-buildings.jpg'
 tags: 'Singapore, property, investment, outlook'
 published: false
 ---
-[Latest estimates](http://www.straitstimes.com/business/economy/signs-of-slow-growth-ahead) from the Ministry of Trade and Industry indicates that Singapore's economy is forecast to grow by 1-2% in 2016.  Against the backdrop of continued slow growth and the [gloomy economic climate](http://www.bloomberg.com/news/articles/2016-08-14/singaporeans-worried-over-jobs-and-pay-are-glummest-since-2009), we think it is timely to take a step back to consider where Singapore is currently, what the economy would look like in the next 20 years and consider what will drive Singapore real estate value in the long run. <!--more-->
+[Latest estimates](http://www.straitstimes.com/business/economy/signs-of-slow-growth-ahead) from the Ministry of Trade and Industry indicates that Singapore's economy is forecast to grow by 1-2% in 2016.  Against the backdrop of continued slow growth and the [gloomy economic climate](http://www.bloomberg.com/news/articles/2016-08-14/singaporeans-worried-over-jobs-and-pay-are-glummest-since-2009), we think it is timely to take a step back to evaluate where Singapore is currently, what the economy would look like in the next 20 years and consider what will drive Singapore real estate value in the long run. <!--more-->
 
 <img src="http://www.street-level.co/assets/PSA-Landscape.jpg" width="500px"><br>
 <sup>Picture from Gov.Sg | PSA Singapore Terminals</sup><br>
@@ -30,14 +30,11 @@ As Singapore continue to restructure its economy, it is important for investors 
 <img src="http://www.street-level.co/assets/Singapore-GDP-Breakdown.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
-From a real estate perspective, this means that traditional end-user demand of real estate is going to be different.  Some examples are:
-1. manufacturing sector will no longer drive usage of industrial space
-2. traditional retail trade are now ousted in favour of experential/large format retail experience in shopping malls
-3. co-working spaces will emerge to change the way office space is being used. etc.  
+From a real estate perspective, this means that traditional end-user demand of real estate is going to be different.  Some examples being: Manufacturing sector will no longer be the main driver for usage of industrial space.  Traditional retail trade are now ousted in favour of experential/large format retail experience in shopping malls.  Co-working spaces will emerge to change the way office space is being used. etc.  
 
 This also means that obsolence risk for real estate is becoming more real as we see some sectors and industries in the old economy fade away.
 
-### But end-user demand will still continue to drive real estate value, so its important to identify the trends that are emerging 
+### End-user demand will still continue to drive real estate value, so its important to identify the trends that are emerging 
 
 Real estate demand can be quite policy-driven, hence we believe that real estate investors can take cue from the economic policies that the Singapore and regional governments will or has implemented to project how the economy will develop.
 
@@ -47,12 +44,12 @@ Below we share some key themes we see playing out in the near future which can d
 
 2.  The support packages announced as part of the Industry Transformation Program in Budget 2016 will see automation and knowledge intensive industry gather traction.  SMEs, techology and media companies, and start-ups will form the new demand source for industrial and office spaces.
 
-3.  Services industries will continue to be the forward drivers of GDP growth with Singapore being the regional APAC/ASEAN hub of tourism, medical services and financial services.  This would continue to form the core demand for associated real estate assets.
+3.  Services industries will continue to be the forward drivers of GDP growth with Singapore being the regional APAC/ASEAN hub of <b>tourism, medical services and financial services</b>.  This would continue to form the core demand for associated real estate assets.
 
 4.  Regional economic policies such as the Asean Economic Community and the Trans-Pacific Partnership will be long term drivers underpinning the above mentioned themes.
 
 
 ### Closing remarks
-Slower economic growth will be the flavour of the decade (or two) and the investment world has argubaly gotten a lot more complicated in the last decare.  However, we belive that investors should focus on where the end-user demand of real estate is to find investment opportunities in Singapore.
+Slower economic growth will be the flavour of the decade (or two) and the investment world has argubaly gotten a lot more complicated in the last decade.  However, we belive that investors should focus on where the <b>end-user demand for real estate</b> is to find investment opportunities in Singapore.
 
-In our subsequent posts, we will share sector specific insights and ideas on how investors in Singapore can capture value in real estate investments.  We hope the above is helpful for real estate investors to form high level macroeconomic view of Singapore.  We will love to hear your thoughts and exchange of ideas in the comment box below.
+In our subsequent posts, we will share sector specific insights and ideas on how investors in Singapore can capture value in real estate investments.  We hope the above is helpful for real estate investors to form a high level macroeconomic view of Singapore.  We will love to hear your thoughts and exchange of ideas in the comment box below.
