@@ -3,7 +3,7 @@ layout: post
 title: Singapore Real Estate - What Drives Long Term Value
 description: Singapore real estate - what drives long term value
 date: 2016-08-26
-image: '{{site.url}}/assets/Fullerton-bay-buildings.jpg'
+image: 'http://www.street-level.co/assets/PSA-Landscape.jpg'
 tags: 'singapore, property, investment, outlook, economy'
 published: true
 ---
