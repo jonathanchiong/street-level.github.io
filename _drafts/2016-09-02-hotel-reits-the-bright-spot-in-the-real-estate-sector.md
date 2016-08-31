@@ -3,14 +3,13 @@ layout: post
 title: Hotel REITs - The Bright Spot in the Real Estate Sector
 description: Hotel REITs - The Bright Spot in the Real Estate Sector
 date: 2016-09-02
-image: 'http://www.street-level.co/assets/PSA-Landscape.jpg'
+image: 'http://www.street-level.co/assets/Fullerton-hotel.jpg'
 tags: 'Singapore, property, investment, hotels, tourism, REITs, travel'
 published: false
 ---
 With all the uncertainty around the global economic climate and the pace of Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment.  We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term.  In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
-<img src="http://www.street-level.co/assets/MBS-hotel.jpg" width="500px"><br>
-<sup>Picture from Gov.Sg | PSA Singapore Terminals</sup><br><!--more-->
+<img src="http://www.street-level.co/assets/Fullerton-hotel.jpg" width="700px"><br><!--more-->
 
 ### Millennials love to travel and travel spending is becoming a core part of their expenditure
 Millennials, defined as those born from the 1980s onwards, have different spending mindset as compared with previous generations. They are willing to spend on experiences - outdoor dining at nice restaurants, fun activities (eg. paintball, escape room, art jam sessions, etc) and overseas holiday travel.  An [article] (http://thegbrief.com/articles/millennial-expectations-are-reshaping-travel-industry-602) published earlier this year shed some light on the impact of millennials on the travel industry.  It was highlighted that nowadays millenials travel more often for business (4.7 times each year) and leisure (4.2 times per year) as compared to the previous generations.  As more and more of those born in/after 1980s reaches working age, with many also reaching their peak spending power, this spending behaviour could reshape the travel industry in the years to come.
