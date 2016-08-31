@@ -9,7 +9,7 @@ published: false
 ---
 With all the uncertainty around the global economic climate and the pace of Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment.  We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term.  In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
-<img src="http://www.street-level.co/assets/PSA-Landscape.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/MBS-hotel.jpg" width="500px"><br>
 <sup>Picture from Gov.Sg | PSA Singapore Terminals</sup><br><!--more-->
 
 ### Millennials love to travel and travel spending is becoming a core part of their expenditure
@@ -37,7 +37,7 @@ But the strong growth has yet to translate to higher hotel occupancy rates and r
 This supply, however, will taper off significantly from 2018 and we believe this would reverse the trend in occupancy and room rate growth in the next 12 to 18 months.
 
 <img src="http://www.street-level.co/assets/Sg-hotel-supply-Jul16.png" width="700px"><br>
-<sup>Source: Singstats</sup><br>
+<sup>Source: CDL Hospitality Trusts/sup><br>
 
 ### Currency volatility and weak economic sentiments are key risks, but alternative accomodation platforms unlikely to post a threat to hotel demand
 
@@ -47,4 +47,4 @@ The risk to our view is a strong Singapore dollar which will limit tourist spend
 We do not think that the spread of the Zika virus is a major [threat to the tourism in Singapore] (http://www.reuters.com/article/us-health-zika-singapore-idUSKCN1150HM).  The Singapore government have always been quick and efficient in dealing with such situations.  Economic impact should be minimal and should not be compared with the outbreak of severe acute respiatory syndrome (SARS) in 2013 as the mode of transmission is different and more limited.  
 
 ### Short-term headwinds but strong fundamentals of the travel industry should drive mid-term value of hotel REITs
-In summary, we believe that although there are short-term supply-driven headwinds, the fundamentals for the hotel market remains strong and outlook is positive.  The Singapore government's initiative to spur tourism through the SGD 700million Tourism Development Fund is expected to help keep the industry robust through the development of tourism products and improving productivity through technology.  Short-term headwinds against the Singapore-listed hotel REITs sector will present a good entry point for investors who are looking to gain exposure to the hotel sector for the long term.
+In summary, we believe that although there are short-term headwinds, the fundamentals for the hotel market remains strong and outlook is positive.  The Singapore government's initiative to spur tourism through the SGD 700million Tourism Development Fund is expected to help keep the industry robust through the development of tourism products and improving productivity through technology.  The short-term headwinds against Singapore-listed hotel REITs will present a good entry point for investors who are looking to gain exposure to the hotel sector for the long term.
