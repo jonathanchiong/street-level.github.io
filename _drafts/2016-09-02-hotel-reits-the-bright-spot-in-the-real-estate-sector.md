@@ -36,7 +36,7 @@ But the strong growth has yet to translate to higher hotel occupancy rates and r
 This supply, however, will taper off significantly from 2018 and we believe this would reverse the trend in occupancy and room rate growth in the next 12 to 18 months.
 
 <img src="http://www.street-level.co/assets/Sg-hotel-supply-Jul16.png" width="700px"><br>
-<sup>Source: CDL Hospitality Trusts/sup><br>
+<sup>Source: CDL Hospitality Trusts</sup><br>
 
 ### Currency volatility and weak economic sentiments are key risks, but alternative accomodation platforms unlikely to post a threat to hotel demand
 
