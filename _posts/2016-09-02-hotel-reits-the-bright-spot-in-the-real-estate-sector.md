@@ -5,7 +5,7 @@ description: Hotel REITs - The Bright Spot in the Real Estate Sector
 date: 2016-09-02T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Fullerton-hotel.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
-published: false
+published: true
 ---
 With uncertainties around the global economic climate and Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment. We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term. In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
