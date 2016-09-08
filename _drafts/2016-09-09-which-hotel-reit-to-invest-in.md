@@ -8,7 +8,7 @@ tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: false
 ---
 
-<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="700px"><br>
+<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
 
 The mark of a good investor is to always do your research thoroughly and know what you are investing into before deploying any capital.  Risk management is of utmost importance when it comes to investing, and **one of the most important way to manage risk is to know your investments well**.  In our [previous post](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), we highlighted that hotel REITs is one of the sub-sector to watch out for.  However, not all hotel REITs are the same and it is important to know exactly what you are buying into. <!--more-->
 
@@ -49,5 +49,5 @@ Out the 6 hospitality REITs, we prefer CDL-HT for (1) the diversity in its portf
 trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="900px"><br>
-<sup>Source: Company filings, SGX</sup>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="800px">
+<sup>Source: Company filings, SGX</sup><br>
