@@ -50,3 +50,4 @@ trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Val
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
 <img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="900px"><br>
+<sup>Source: Company filings, SGX</sup>
