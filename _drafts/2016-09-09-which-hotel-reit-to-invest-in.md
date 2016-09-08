@@ -49,5 +49,5 @@ Out the 6 hospitality REITs, we prefer CDL-HT for (1) the diversity in its portf
 trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="800px">
-<sup>Source: Company filings, SGX</sup><br>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="750px"><br>
+<sup>Source: Company filings, SGX</sup>
