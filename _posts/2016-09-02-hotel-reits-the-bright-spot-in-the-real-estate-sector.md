@@ -3,13 +3,13 @@ layout: post
 title: Hotel REITs - The Bright Spot in the Real Estate Sector
 description: Hotel REITs - The Bright Spot in the Real Estate Sector
 date: 2016-09-02T00:00:00.000Z
-image: 'http://www.street-level.co/assets/Fullerton-hotel.jpg'
+image: '{{ site.url }}/assets/Fullerton-hotel.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: true
 ---
 With uncertainties around the global economic climate and Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment. We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term. In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
-<img src="http://www.street-level.co/assets/Fullerton-hotel.jpg" width="700px"><br><!--more-->
+<img src="{{ site.url }}/assets/Fullerton-hotel.jpg" width="700px"><br><!--more-->
 
 ### Millennials love to travel and travel spending is a core part of their expenditure
 Millennials[^1] have different spending mindset as compared with previous generations. They are more willing to spend on experiences, e.g. activities such as outdoor dining, art jam sessions, etc. and naturally holiday travels. An [article](http://thegbrief.com/articles/millennial-expectations-are-reshaping-travel-industry-602) published earlier this year shed some light on the impact of millennials on the travel industry. It was highlighted that millenials currently travel more often for business (4.7 times each year) and leisure (4.2 times per year) as compared to the previous generations. This change in spending behaviour would reshape the travel industry in the years to come.
@@ -20,22 +20,22 @@ A key structural change in the aviation industry over the past decade has been t
 ### Singapore tourist arrivals have recovered strongly in 2016 but this is yet to be reflected in hotel occupancy and room rates
 In Singapore, after 2 years of muted growth in tourism numbers (due to aviation disasters and curbs by Chinese authorities on low-cost shopping tours), we see a strong broad-based recovery in international tourist arrivals since the start of 2016. As of May 2016, international visitor arrivals grew 13% year-on-year (y-o-y), led by arrivals from China (+55% y-o-y), Indonesia (+9% y-o-y) and India (+10% y-o-y). Tourist arrivals from other ASEAN countries such as Thailand (+21% y-o-y) and Vietnam (+10% y-o-y) also saw a double digit growth.  Singapore continues to be seen as a regional hub for Western tourists visiting Asia, specifically Southeast Asia. Tourist arrivals from Europe, which accounts for 11% of total tourists in Singapore, also saw a double digit growth of 12% y-o-y, notwithstanding fall in European currencies.
 
-<img src="http://www.street-level.co/assets/Sg-tourism-arrivals-May16.png" width="700px"><br>
+<img src="{{ site.url }}/assets/Sg-tourism-arrivals-May16.png" width="700px"><br>
 <sup>Source: Singstats</sup><br>
 
 We see the increase in tourism arrivals correspondingly reflected in a increase in tourism spending for the past few years. Hotel room revenues grew 12.6% per annum over the last 7 years while hotel F&B revenue grew 8.6% per annum.
 
-<img src="http://www.street-level.co/assets/Sg-tourism-spending-May16.png" width="700px"><br>
+<img src="{{ site.url }}/assets/Sg-tourism-spending-May16.png" width="700px"><br>
 <sup>Source: Singstats</sup><br>
 
 But the strong growth has yet to translate into higher hotel occupancy rates and room rates. This is mainly due to a large increase in supply of hotel rooms in 2016 and 2017. 
 
-<img src="http://www.street-level.co/assets/Sg-hotel-stats-May16.png" width="700px"><br>
+<img src="{{ site.url }}/assets/Sg-hotel-stats-May16.png" width="700px"><br>
 <sup>Source: Singstats</sup><br>
 
 The increase in supply will taper off significantly from 2018 and we believe this would reverse the trend in occupancy and room rate growth within the next 12 to 18 months, assuming travel demand continues to be sustained
 
-<img src="http://www.street-level.co/assets/Sg-hotel-supply-Jul16.png" width="700px"><br>
+<img src="{{ site.url }}/assets/Sg-hotel-supply-Jul16.png" width="700px"><br>
 <sup>Source: CDL Hospitality Trusts</sup><br>
 
 ### Currency volatility and weak economic sentiments are key risks, but alternative accommodation platforms unlikely to post a threat to hotel demand
