@@ -7,44 +7,46 @@ image: 'http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: false
 ---
-With uncertainties around the global economic climate and Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment. We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term. In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
-<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg.jpg" width="700px"><br><!--more-->
+<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="700px"><br>
 
-### Millennials love to travel and travel spending is a core part of their expenditure
-Millennials[^1] have different spending mindset as compared with previous generations. They are more willing to spend on experiences, e.g. activities such as outdoor dining, art jam sessions, etc. and naturally holiday travels. An [article](http://thegbrief.com/articles/millennial-expectations-are-reshaping-travel-industry-602) published earlier this year shed some light on the impact of millennials on the travel industry. It was highlighted that millenials currently travel more often for business (4.7 times each year) and leisure (4.2 times per year) as compared to the previous generations. This change in spending behaviour would reshape the travel industry in the years to come.
+The mark of a good investor is to always do your research thoroughly and know what you are investing into before deploying any capital.  Risk management is of utmost importance when it comes to investing, and **one of the most important way to manage risk is to know your investments well**.  In our [previous post](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), we highlighted that hotel REITs is one of the sub-sector to watch out for.  However, not all hotel REITs are the same and it is important to know exactly what you are buying into. <!--more-->
 
-### Proliferation of low cost carriers and cheap energy costs will continue to support travel demand
-A key structural change in the aviation industry over the past decade has been the proliferation of low-cost carriers ("LCC"). Coupled with lower energy costs in the last 2 years, the increased in the number of LCCs have supported the growth in [international tourism](http://media.unwto.org/press-release/2016-01-18/international-tourist-arrivals-4-reach-record-12-billion-2015). 
+### Know what you are buying - Hotels or service residences? Or...?
+There are 6 hospitality REITs listed on the Singapore exchange.  Not all of them are pure-play hotel REITs and it is important to look at what assets each of these REIT holds.  Out of the 6 hospitality REITs, only CDL Hospitality Trusts (CDL-HT) and Ascendas Hospitality Trust (AHT) are pure-play hotel REITs; OUE Hospitality Trust (OUE-HT) has a sizeable income derived from the prime-retail segment with its exposure to Orchard Mandarin Gallery; Frasers Hospitality Trust (FHT) and Far East Hospitality Trust (FEHT) have exposure to service residences; Ascott Residence Trust (ART) is a pure-play service residence REIT and should not be classify as a hotel REIT as the demand drivers and risk profile for hotels and service residences are different.  For example,
 
-### Singapore tourist arrivals have recovered strongly in 2016 but this is yet to be reflected in hotel occupancy and room rates
-In Singapore, after 2 years of muted growth in tourism numbers (due to aviation disasters and curbs by Chinese authorities on low-cost shopping tours), we see a strong broad-based recovery in international tourist arrivals since the start of 2016. As of May 2016, international visitor arrivals grew 13% year-on-year (y-o-y), led by arrivals from China (+55% y-o-y), Indonesia (+9% y-o-y) and India (+10% y-o-y). Tourist arrivals from other ASEAN countries such as Thailand (+21% y-o-y) and Vietnam (+10% y-o-y) also saw a double digit growth.  Singapore continues to be seen as a regional hub for Western tourists visiting Asia, specifically Southeast Asia. Tourist arrivals from Europe, which accounts for 11% of total tourists in Singapore, also saw a double digit growth of 12% y-o-y, notwithstanding fall in European currencies.
+**1. Length of stay**
+Hotel stays are usually short from a day to a few days.  Service residences cater for longer stays which can last from a week to 12 months.  Most service apartments have a minimum number of nights per stay.
 
-<img src="http://www.street-level.co/assets/Sg-tourism-arrivals-May16.png" width="700px"><br>
-<sup>Source: Singstats</sup><br>
+**2. Size of units**
+Hotel units are typically smaller as compared to service residences.  This means that the income yield per square feet for service residences is lower than hotels (you can rent a service residence unit with a larger size as compare to a hotel room for the same price) which makes it less space efficient.
 
-We see the increase in tourism arrivals correspondingly reflected in a increase in tourism spending for the past few years. Hotel room revenues grew 12.6% per annum over the last 7 years while hotel F&B revenue grew 8.6% per annum.
+**3. Amenities and services**
+Hotels have a broader range of amenities (such as meeting rooms, banquet halls, restaurants, spas, etc) and services (such as room service, bells hops, valet, daily housekeeping, etc).  Sometimes, these amenities and services can generate a significant portion of hotel revenues, albeit this also means higher operating costs (risk).
 
-<img src="http://www.street-level.co/assets/Sg-tourism-spending-May16.png" width="700px"><br>
-<sup>Source: Singstats</sup><br>
+**4. Threat of alternative accomdation platform**
+Demand for service residences are more prone to competition from alternative accomodation platforms (eg. Airbnb).  As alluded to in our [previous post](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), these alternative accommodation providers tend to target travellers who prefers a “home-like” experience, travellers on medium-term stays, or family/multi-family large travel groups which is a direct competition to service residences.
 
-But the strong growth has yet to translate into higher hotel occupancy rates and room rates. This is mainly due to a large increase in supply of hotel rooms in 2016 and 2017. 
+The above mentioned factors significantly differentiates the risk/reward profile of hotel REITs as compared to service residence REITs.  Hence it is important to differentiate what a REIT holds to properly assess the risk of your investment.
 
-<img src="http://www.street-level.co/assets/Sg-hotel-stats-May16.png" width="700px"><br>
-<sup>Source: Singstats</sup><br>
+### Know the difference between master leases and management contracts
+In a master lease, the hotel operator (eg. Starwoods, Accor, etc) leases the hotel from the REIT and pays the REIT a rent.  The rent could be a fixed rent, a variable rent (% of revenue and/or % of profit), or a combnation of both.  **In a master lease, the hotel operator is responsible for all profits and losses after paying the rent to the REIT.**
 
-The increase in supply will taper off significantly from 2018 and we believe this would reverse the trend in occupancy and room rate growth within the next 12 to 18 months, assuming travel demand continues to be sustained
+In a management contract, the REIT pays the hotel operator a management fee (usually % of profits) in return for managing the hotel.  This means that the **REIT is responsible for all profits and losses after paying the management fee to the operator.**
 
-<img src="http://www.street-level.co/assets/Sg-hotel-supply-Jul16.png" width="700px"><br>
-<sup>Source: CDL Hospitality Trusts</sup><br>
+The key difference in the two arrangements is where the risk (and also reward) lies.  Master leases provides a more stable revenue and defensive stream to the REIT, whereas the management contracts creates a more volatile revenue stream but is compensated by larger revenue upside since the REIT takes all profits after deducting the management fees to operator.
 
-### Currency volatility and weak economic sentiments are key risks, but alternative accommodation platforms unlikely to post a threat to hotel demand
-The risk to our view is a strong Singapore dollar which will limit tourist spending and "weaker-for-longer" global economic sentiments which results in a decline for business travels. We do not see alternative accomodation platforms (e.g. Airbnb™) as a major threat to Singapore's hotel demand. These alternative accommodation providers tend to target a different segment of the travellers market, e.g. travellers who prefers a "home-like" experience, travellers on medium-term stays, or family/multi-family large travel groups. Hotels on the other hand offers a higher level of service experience and more amenities. The core traveller demand for hotels would unlikely be materially cannibalized by alternative accommodation providers. It is also worth mentioning that the Singapore Government has been [cracking down on](http://www.propertyguru.com.sg/property-management-news/2016/8/133271/action-taken-against-44-illegal-short-term-rentals-in-2016-mnd) short-term rentals of private homes, which continues to be illegal in Singapore.
+Knowing which arrangement the majority of the REIT revenue stream comes from can help an investor assess the risk he/she is bearing.
 
-### Impact of the Zika virus in Singapore should not pose a significant threat
-We do not think that the spread of the Zika virus is a major [threat to the tourism in Singapore](http://www.reuters.com/article/us-health-zika-singapore-idUSKCN1150HM). The Singapore government had so far been prompt and responsive in dealing with the cluster cases. Economic impact should be minimal and should not be compared with the outbreak of Severe Acute Respiratory Syndrome ("SARS") in 2013 as the transmission mode is different and more limited. 
+### Asset encumberance could have an impact on the ability of the REIT to borrow or refinance
+Since a REIT distributes most of its cashflow, the REIT needs 3rd party capital (debt or equity) to grow its income.  Hence, the ability of the REIT to borrow money at a cheap rate to acquire assets is crucial to the growth of a REIT.  All secured debt are backed by the mortgage of the REIT's assets.  When credit markets are tight, having a higher proportion of secured debt could impact the ability of the REIT to borrow money and/or increase (future) financing costs.  
+  
+### Alignment of interest with a strong sponsor is crucial
+The sponsor of a REIT is usually the majority shareholder of the REIT eg. City Developments for CDL-HT, OUE Limited for OUE-HT, and Ascendas for AHT.  The sponsor is also usually the party who hasassets on their balance sheet to inject into the REIT.  A REIT with a large sponsor stake implies strong alignment of interest between the sponsor and investors. As mentioned in the previous point, a REIT will need 3rd party capital to grow, so having a strong sponsor can help support the REIT with new equity (through a rights issue or preferential offer) for acquisitions.  E.g. Investors usually want the sponsor to have sufficient "skin in the game" and "in it together with the investors" when a dilutive rights issues or preferential offer is called.
 
-### Short-term headwinds but strong fundamentals of the travel industry should drive mid-term value of hotel REITs
-While there are short-term headwinds, we believe the fundamentals for the hotel market remains strong and outlook is positive. The Singapore Government's initiative to spur tourism through the SGD 700 million Tourism Development Fund is expected to assist the industry in developing tourism products and improving productivity through technology. These short-term headwinds against Singapore-listed hotel REITs will present a good entry point for investors who are looking to gain exposure to the hotel sector for the long term.
+### So, which REIT do we prefer?
+Out the 6 hospitality REITs, we prefer CDL-HT for (1) the diversity in its portfolio, (2) majority master-leased hotels, (3) strong debt profile and sponsor, and (4) inexpensive valuations.  CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with well-know brands.  Its assets are located in key tourist markets in the Asia Pacific.  We expect the proportion of Singapore hotels to be reduced going forwward given that CDL-HT has been focusing on overseas hotel acquisition in the last few years.  This will reduce the weightage to Singapore and provide further diversification to its portfolio.  Most of its hotels are on the master lease arrangement, providing stability on its distributions, particularly in benign market environment.  Low asset encumberance and low cost of debt are also strong positives for CDL-HT.  Based on the closing price as of 8 September 2016, CDL-HT is 
+trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
 
-[^1]: Broadly defined as those born from the 1980s onwards.
+Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="700px"><br>
