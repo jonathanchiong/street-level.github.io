@@ -32,7 +32,7 @@ The above mentioned factors significantly differentiates the risk/reward profile
 ### Know the difference between master leases and management contracts
 In a master lease, the hotel operator (eg. Starwoods, Accor, etc) leases the hotel from the REIT and pays the REIT a rent.  The rent could be a fixed rent, a variable rent (% of revenue and/or % of profit), or a combnation of both.  **In a master lease, the hotel operator is responsible for all profits and losses after paying the rent to the REIT.**
 
-In a management contract, the REIT pays the hotel operator a management fee (usually % of profits) in return for managing the hotel.  This means that the **REIT is responsible for all profits and losses after paying the management fee to the operator.**
+In a management contract, the REIT pays the hotel operator a management fee (usually % of profits) in return for managing the hotel.  This means that **the REIT is responsible for all profits and losses after paying the management fee to the operator.**
 
 The key difference in the two arrangements is where the risk (and also reward) lies.  Master leases provides a more stable revenue and defensive stream to the REIT, whereas the management contracts creates a more volatile revenue stream but is compensated by larger revenue upside since the REIT takes all profits after deducting the management fees to operator.
 
@@ -49,4 +49,4 @@ Out the 6 hospitality REITs, we prefer CDL-HT for (1) the diversity in its portf
 trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="700px"><br>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="900px"><br>
