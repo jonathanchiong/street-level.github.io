@@ -53,4 +53,4 @@ FHT's assets are across key tourism markets and hubs in Asia and Europe, and has
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
 <img src="http://www.street-level.co/assets/Hospitality-REITs-table-15Sep16.png" width="750px"><br>
-<sup>Source: Company filings, SGX</sup>
+<sup>Source: Company filings, SGX.  Based on closing prices of 15 Sep 2016</sup>
