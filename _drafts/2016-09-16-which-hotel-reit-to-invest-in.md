@@ -2,7 +2,7 @@
 layout: post
 title: Which Hotel REIT to Invest In
 description: Evaluation of hotel REIT investment
-date: 2016-09-09T00:00:00.000Z
+date: 2016-09-16T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: false
@@ -45,9 +45,12 @@ Since a REIT distributes most of its cashflow, the REIT needs 3rd party capital 
 The sponsor of a REIT is usually the majority shareholder of the REIT eg. City Developments for CDL-HT, OUE Limited for OUE-HT, and Ascendas for AHT.  The sponsor is also usually the party who hasassets on their balance sheet to inject into the REIT.  A REIT with a large sponsor stake implies strong alignment of interest between the sponsor and investors. As mentioned in the previous point, a REIT will need 3rd party capital to grow, so having a strong sponsor can help support the REIT with new equity (through a rights issue or preferential offer) for acquisitions.  E.g. Investors usually want the sponsor to have sufficient "skin in the game" and "in it together with the investors" when a dilutive rights issues or preferential offer is called.
 
 ### So, which REIT do we prefer?
-Out the 6 hospitality REITs, we prefer CDL-HT for (1) the diversity in its portfolio, (2) majority master-leased hotels, (3) strong debt profile and sponsor, and (4) inexpensive valuations.  CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with well-know brands.  Its assets are located in key tourist markets in the Asia Pacific.  We expect the proportion of Singapore hotels to be reduced going forwward given that CDL-HT has been focusing on overseas hotel acquisition in the last few years.  This will reduce the weightage to Singapore and provide further diversification to its portfolio.  Most of its hotels are on the master lease arrangement, providing stability on its distributions, particularly in benign market environment.  Low asset encumberance and low cost of debt are also strong positives for CDL-HT.  Based on the closing price as of 8 September 2016, CDL-HT is 
-trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
+Out the 6 hospitality REITs, we prefer CDL-HT and FHT for the (1) the diversity in their portfolio, (2) majority master-leased properties, (3) strong balance sheet profile and sponsor alignment, and (4) inexpensive valuations.  
+
+CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with well-know brands.  Its assets are located in key tourist markets in the Asia Pacific.  We expect the proportion of Singapore hotels to be reduced going forwward given that CDL-HT has been focusing on overseas hotel acquisition in the last few years.  This will reduce the weightage to Singapore and provide further diversification to its portfolio.  Most of its hotels are on the master lease arrangement, providing stability on its distributions, particularly in benign market environment.  Low asset encumberance and low cost of debt are also strong positives for CDL-HT.  Based on the closing price as of 15 September 2016, CDL-HT is trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
+
+FHT's assets are across key tourism markets and hubs in Asia and Europe, and has a mix of hotels and service residences.  The Fraser's brand is reputable and is the hospitality business is one of the core pillars for its sponsor, Frasers Centerpoint Limited.  The recently announced acquisitions in Germany and Australia, coupled with the accompanying rights issue will provide the income growth and strengthened its balance sheet significantly allowing for further acquisitions in the near future.  Based on the closing price as of 15 September 2016, FHT is trading at 8.1% LTM yield and 2% discount to NAV, which seems reasonable in our opinion.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-8Sep16.png" width="750px"><br>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-15Sep16.png" width="750px"><br>
 <sup>Source: Company filings, SGX</sup>
