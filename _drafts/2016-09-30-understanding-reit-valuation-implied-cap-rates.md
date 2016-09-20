@@ -2,13 +2,13 @@
 layout: post
 title: Understanding REIT Valuation - Implied Cap Rates
 description: Using implied cap rates a a valuation methodology
-date: 2016-09-16T00:00:00.000Z
-image: 'http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg'
+date: 2016-09-30T00:00:00.000Z
+image: 'http://www.street-level.co/assets/Finance-data.jpg'
 tags: 'REIT, valuation, cap rate, implied cap rate'
 published: false
 ---
 
-<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
+<img src="http://www.street-level.co/assets/Finance-data.jpg" width="500px"><br>
 
 Two common valuation metrics used by REIT investors when assessing REIT investments are (1) Premium/Discount to Net Asset Value (NAV) and (2) Distribution Yield.  The former tells you the relative value of the REIT while the latter provides the estimated cashflow returns of the investment.  We suggest, however, that both of these metrics may not accurately reflect the true underlying value and cashflow of the investment properties held by the REIT. <!--more-->
 
