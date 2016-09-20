@@ -23,20 +23,19 @@ For this reason, it is hard to tell solely based on the trading premium/discount
 Distributions of a REIT is highly dependedent on the source of funding for its investments. A REIT can increase its distributions by funding its investment with more debt (also means more risk).  Distributions can also be increased by paying the management fees in REIT units instead of cash (requiring the issuance of new REIT units which dilutes the investors in the long run).  Therefore, investors should not rely solely on comparing distribution yields when assessing REIT investments. 
 
 ### Comparing implied capitalisation rate (cap rate) provides a more objective approach to valuation
-We suggest using implied cap rates as a valuation metric to assess REIT investments.  This is a commonly use metric by real estate investment professionals/bankers and would be helpful for potential REIT investors when valuing REITs.
+We suggest using implied cap rates as a valuation metric to assess REIT investments.  This is a commonly used metric by real estate investment professionals/bankers and would be helpful for potential REIT investors when valuing REITs.
 
-**What is cap rate?
-Cap rate is the potential rate of return of an investment property and is calculated by taking the annual net operating income of the property divided by the property value.  It essentially shows how much cash an investment property can generate for the investor annually after paying expenses.
+***What is cap rate?**
+Cap rate is the potential rate of return of an investment property and is calculated by taking the annual net operating income of the property divided by the property value.  It shows how much cash an investment property can generate for the investor annually after paying expenses.
 
-**Cap rate = Annnual Net Operating Income / Property Value 
+**Cap rate = Annnual Net Operating Income / Property Value**
+For a direct property investment, the property value is (funded through) a combination of debt and equity.  
 
 <img src="http://www.street-level.co/assets/Property-value.png" width="500px"><br>
 
-For a direct property investment, the property value is (funded through) a combination of debt and equity.  
+However, for a REIT, the equity is the market cap which fluctuates on a day-to-day basis.  Hence an **implied property value** can be derived by taking the market cap and adding the net debt (total debt minus cash) of the REIT.
 
-For a REIT, the equity (market cap) fluctuates on a day-to-day basis, since its traded on the stock exchange.  Hence we can derive an **implied property value** by taking the market cap and adding the net debt (total debt minus cash) of the REIT.
-
-Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the implied property value
+Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**
 
 **Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)
 
