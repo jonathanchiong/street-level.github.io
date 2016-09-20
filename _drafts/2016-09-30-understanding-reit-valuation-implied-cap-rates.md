@@ -33,19 +33,15 @@ For a direct property investment, the property value is (funded through) a combi
 
 <img src="http://www.street-level.co/assets/Property-value.png" width="400px"><br>
 
-However, for a REIT, the equity is the market cap which fluctuates on a day-to-day basis.  Hence an **implied property value** can be derived by taking the market cap and adding the net debt (total debt minus cash) of the REIT.
-
-Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**<br>
+However, for a REIT, the equity is the market cap which fluctuates on a day-to-day basis.  Hence an **implied property value** can be derived by taking the market cap and adding the net debt (total debt minus cash) of the REIT.  Accordingly, investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**<br>
 
 <center>**Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)**<br></center>
 
 <img src="http://www.street-level.co/assets/Implied-property-value.png" width="500px"><br>
 
-
-
 ### Mathematical example - Frasers Commercial Trust (FCOT)'s implied cap rate
 
-Based on FCOT's unit price of SGD 1.39, the implied cap rate of FCOT is calculated as:<br>
+Based on FCOT's unit price of SGD 1.39, the implied cap rate is calculated as:<br>
 
 **Annual Net Property Income (Last Twelve Months) / (Market cap + Debt - Cash)**<br>
 **= SGD 113.7 million / (SGD 1,099 million + SGD 737 million - SGD 63 million)**<br>
