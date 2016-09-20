@@ -37,13 +37,13 @@ However, for a REIT, the equity is the market cap which fluctuates on a day-to-d
 
 <center>**Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)**<br></center>
 
-<img src="http://www.street-level.co/assets/Implied-property-value.png" width="500px"><br>
+<img src="http://www.street-level.co/assets/Implied-property-value.png" width="490px"><br>
 
 ### Mathematical example - Frasers Commercial Trust (FCOT)'s implied cap rate
 
 Based on FCOT's unit price of SGD 1.39, the implied cap rate is calculated as:<br>
 
-**Annual Net Property Income (Last Twelve Months) / (Market cap + Debt - Cash)**<br>
+**Net Property Income for the last 12 months / (Market cap + Debt - Cash)**<br>
 **= SGD 113.7 million / (SGD 1,099 million + SGD 737 million - SGD 63 million)**<br>
 **= SGD 113.7 million / SGD 1,773.5 million**<br>
 **= 6.4%**<br>
