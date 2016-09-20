@@ -28,7 +28,7 @@ We suggest using implied cap rates as a valuation metric to assess REIT investme
 ***What is cap rate?**
 Cap rate is the potential rate of return of an investment property and is calculated by taking the annual net operating income of the property divided by the property value.  It shows how much cash an investment property can generate for the investor annually after paying expenses.
 
-**Cap rate = Annnual Net Operating Income / Property Value**
+**Cap rate = Annnual Net Operating Income / Property Value**<br>
 For a direct property investment, the property value is (funded through) a combination of debt and equity.  
 
 <img src="http://www.street-level.co/assets/Property-value.png" width="500px"><br>
@@ -37,7 +37,7 @@ However, for a REIT, the equity is the market cap which fluctuates on a day-to-d
 
 Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**
 
-**Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)
+<center>**Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)**</centre>
 
 <img src="http://www.street-level.co/assets/Implied-property-value.png" width="500px"><br>
 
@@ -45,10 +45,10 @@ Investors can assess the resultant implied cap rate by taking the annual net ope
 
 Based on FCOT's price of SGD 1.39 per unit,
 
-**Annual Net Property Income (Last Twelve Months) / (Market cap + Debt - Cash)
-**= SGD 113.7 million / (SGD 1,099 million + SGD 737 million - SGD 63 million)
-**= SGD 113.7 million / SGD 1,773.5 million 
-**= 6.4%
+**Annual Net Property Income (Last Twelve Months) / (Market cap + Debt - Cash)**<br>
+**= SGD 113.7 million / (SGD 1,099 million + SGD 737 million - SGD 63 million)**<br
+**= SGD 113.7 million / SGD 1,773.5 million **<br
+**= 6.4%**<br>
 
 This implies that thats FCOT's assets yields a 6.4% annual return based on the current trading price.  The lower the price of a REIT (lower market cap), the higher the implied cap rate (better returns).  
 
