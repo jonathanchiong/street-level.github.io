@@ -22,35 +22,37 @@ For this reason, it is hard to tell solely based on the trading premium/discount
 ### Distribution yield can be financially engineered (and most often is)
 Distributions of a REIT is highly dependedent on the source of funding for its investments. A REIT can increase its distributions by funding its investment with more debt (also means more risk).  Distributions can also be increased by paying the management fees in REIT units instead of cash (requiring the issuance of new REIT units which dilutes the investors in the long run).  Therefore, investors should not rely solely on comparing distribution yields when assessing REIT investments. 
 
-### Comparing implied capitalisation rate (cap rate) provides a more objective approach to valuation
+### Implied capitalisation rate (cap rate) provides a more objective approach to valuation
 We suggest using implied cap rates as a valuation metric to assess REIT investments.  This is a commonly used metric by real estate investment professionals/bankers and would be helpful for potential REIT investors when valuing REITs.
 
 **What is cap rate?**<br>
 Cap rate is the potential rate of return of an investment property and is calculated by taking the annual net operating income of the property divided by the property value.  It shows how much cash an investment property can generate for the investor annually after paying expenses.
 
-<center>**Cap rate = Annnual Net Operating Income / Property Value**<br></center>
-For a direct property investment, the property value is (funded through) a combination of debt and equity.  
+<center>**Cap rate = Annnual Net Operating Income / Property Value**<br><br></center>
+For a direct property investment, the property value is (funded through) a combination of debt and equity.<br>
 
-<img src="http://www.street-level.co/assets/Property-value.png" width="500px"><br>
+<img src="http://www.street-level.co/assets/Property-value.png" width="400px"><br>
 
 However, for a REIT, the equity is the market cap which fluctuates on a day-to-day basis.  Hence an **implied property value** can be derived by taking the market cap and adding the net debt (total debt minus cash) of the REIT.
+
+Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**<br>
 
 <center>**Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)**<br></center>
 
 <img src="http://www.street-level.co/assets/Implied-property-value.png" width="500px"><br>
 
-Investors can assess the resultant implied cap rate by taking the annual net operating income of the property divided by the **implied property value**
+
 
 ### Mathematical example - Frasers Commercial Trust (FCOT)'s implied cap rate
 
-Based on FCOT's price of SGD 1.39 per unit,
+Based on FCOT's unit price of SGD 1.39, the implied cap rate of FCOT is calculated as:<br>
 
 **Annual Net Property Income (Last Twelve Months) / (Market cap + Debt - Cash)**<br>
 **= SGD 113.7 million / (SGD 1,099 million + SGD 737 million - SGD 63 million)**<br>
-**= SGD 113.7 million / SGD 1,773.5 million **<br>
+**= SGD 113.7 million / SGD 1,773.5 million**<br>
 **= 6.4%**<br>
 
-This implies that thats FCOT's assets yields a 6.4% annual return based on the current trading price.  The lower the price of a REIT (lower market cap), the higher the implied cap rate (better returns).  
+This implies that thats FCOT's assets yields a 6.4% annual return based on the current trading price of the REIT.  The lower the price of a REIT (lower market cap), the higher the implied cap rate (better returns).  
 
 Implied cap rate as a valuation metric provides a clean assessment of the rate of return of a REIT's properties and can be use as a comparison with other physical assets or assets belonging to other REITs to determine how efficiently the REIT's properties are generating returns for its investors
 
