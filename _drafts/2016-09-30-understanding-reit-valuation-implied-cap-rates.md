@@ -1,4 +1,4 @@
-Enter file contents here---
+---
 layout: post
 title: Understanding REIT Valuation - Implied Cap Rates
 description: Using implied cap rates a a valuation methodology
@@ -10,7 +10,7 @@ published: false
 
 <img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
 
-Two common valuation metrics used by REIT investors when assessing REIT investments are (1) Premium/Discount to Net Asset Value (NAV) and (2) Distribution Yield.  The former tells you the relative value of the REIT while the latter provides the estimated cashflow returns of the investment.  We suggest, however, that both of these metrics may not accurately reflect the true underlying value and cashflow of the investment properties held by the REIT. <!--more>
+Two common valuation metrics used by REIT investors when assessing REIT investments are (1) Premium/Discount to Net Asset Value (NAV) and (2) Distribution Yield.  The former tells you the relative value of the REIT while the latter provides the estimated cashflow returns of the investment.  We suggest, however, that both of these metrics may not accurately reflect the true underlying value and cashflow of the investment properties held by the REIT. <!--more-->
 
 ### Premium/discount to NAV can be distorted by the valuation of the assets
 Bulk of the NAV of a REIT is determined by the valuation of its investment properties.  However, real estate industry professionals would be able to tell you that property valuation is part art-part science.  Valuation can be subjective and is based on available comparable data, and (partially) the opinion of the appraiser.
@@ -30,7 +30,7 @@ Cap rate is the potential rate of return of an investment property and is calcul
 
 **Cap rate = Annnual Net Operating Income / Property Value 
 
-[IMG]
+<img src="http://www.street-level.co/assets/Property-value.png" width="500px"><br>
 
 For a direct property investment, the property value is (funded through) a combination of debt and equity.  
 
@@ -40,7 +40,7 @@ Investors can assess the resultant implied cap rate by taking the annual net ope
 
 **Implied Cap Rate = Annual Net Operating Income / (Market cap + Debt - Cash)
 
-[IMG]
+<img src="http://www.street-level.co/assets/Implied-property-value.png" width="500px"><br>
 
 ### Mathematical example - Frasers Commercial Trust (FCOT)'s implied cap rate
 
