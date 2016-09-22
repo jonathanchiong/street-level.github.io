@@ -2,7 +2,7 @@
 layout: post
 title: Which Hotel REIT to Invest In
 description: Evaluation of hotel REIT investment
-date: 2016-09-16T00:00:00.000Z
+date: 2016-09-23T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: false
@@ -47,10 +47,10 @@ The sponsor of a REIT is usually the majority shareholder of the REIT eg. City D
 ### So, which REIT do we prefer?
 Out the 6 hospitality REITs, we prefer CDL-HT and FHT for the (1) the diversity in their portfolio, (2) majority master-leased properties, (3) strong balance sheet profile and sponsor alignment, and (4) inexpensive valuations.  
 
-CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with well-know brands.  Its assets are located in key tourist markets in the Asia Pacific.  We expect the proportion of Singapore hotels to be reduced going forwward given that CDL-HT has been focusing on overseas hotel acquisition in the last few years.  This will reduce the weightage to Singapore and provide further diversification to its portfolio.  Most of its hotels are on the master lease arrangement, providing stability on its distributions, particularly in benign market environment.  Low asset encumberance and low cost of debt are also strong positives for CDL-HT.  Based on the closing price as of 15 September 2016, CDL-HT is trading at 7.1% Last Twelve Months (LTM) yield and 11% discount to Net Asset Value (NAV), which seems inexpensive in our opinion.
+CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with well-know brands.  Its assets are located in key tourist markets in the Asia Pacific.  We expect the proportion of Singapore hotels to be reduced going forwward given that CDL-HT has been focusing on overseas hotel acquisition in the last few years.  This will reduce the weightage to Singapore and provide further diversification to its portfolio.  Most of its hotels are on the master lease arrangement, providing stability on its distributions, particularly in benign market environment.  Low asset encumberance and low cost of debt are also strong positives for CDL-HT.  Based on the closing price as of 22 September 2016, CDL-HT is trading at 7.1% Last Twelve Months (LTM) yield and 10% discount to Net Asset Value (NAV), which is inexpensive in our opinion.
 
 FHT's assets are across key tourism markets and hubs in Asia and Europe, and has a mix of hotels and service residences.  The Fraser's brand is known quality and the hospitality business is one of the core pillars for its sponsor, Frasers Centerpoint Limited.  The recently announced acquisitions in Germany and Australia, coupled with the accompanying rights issue will provide the income growth and strengthened its balance sheet significantly.  Post completion of the rights issue, gearing should drop to approximately 34% and will provide the debt headroom for further acquisitions in the near future.  FHT will also likely be the second largest hospitality REIT by market cap after ART at that time.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-15Sep16.png" width="750px"><br>
-<sup>Source: Company filings, SGX.  Based on closing prices of 15 Sep 2016</sup>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-22Sep16.png" width="750px"><br>
+<sup>Source: Company filings, SGX.  Based on closing prices as of 22 Sep 2016</sup>
