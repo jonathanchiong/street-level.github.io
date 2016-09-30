@@ -5,7 +5,7 @@ description: Evaluation of hotel REIT investment
 date: 2016-09-30T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg'
 tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
-published: false
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
@@ -51,8 +51,8 @@ CDL-HT's portfolio has a good mix of hotels, from 3-star to luxury hotels with w
 
 FHT's assets are across key tourism markets and hubs in Asia and Europe, and has a mix of hotels and service residences.  The Fraser's brand is reputableand the hospitality business is one of the core pillars for its sponsor, Frasers Centerpoint Limited.  Recently announced acquisitions in Germany and Australia together with the recent rights issue will grow the REIT's revenue and strengthened its balance sheet significantly.  Post completion of the rights issue, gearing should drop to approximately 34% and will provide the debt headroom for further acquisitions.  FHT will be the third largest hospitality REIT by market cap after ART and CDL-HT.
 
-Based on the closing prices as of 22 September 2016, CDL-HT is trading at 7.1% Last Twelve Months (LTM) yield and 10% discount to Net Asset Value (NAV), and FHT at 7.4% LTM yield and 10% discount to NAV.
+Based on the closing prices as of 30 September 2016, CDL-HT is trading at 7.0% Last Twelve Months (LTM) yield and 10% discount to Net Asset Value (NAV), and FHT at 7.6% LTM yield and 12% discount to NAV.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-22Sep16.png" width="750px"><br>
-<sup>Source: Company filings, SGX.  Based on closing prices as of 22 Sep 2016</sup>
+<img src="http://www.street-level.co/assets/Hospitality-REITs-table-30Sep16.png" width="750px"><br>
+<sup>Source: Company filings, SGX.  Based on closing prices as of 30 Sep 2016</sup>
