@@ -24,7 +24,7 @@ Merely looking only at the cash distributions of a REIT does not account for the
 We propose using an implied property yield to assess REIT investments as an additional tool in the savvy investor's toolkit. This is a commonly used by real estate investment professionals / bankers to more comprehensively capture the characteristics of the REIT.
 
 **What is property yield?**
-Property yield is the rate of return of an investment property and is calculated by taking the annual net operating income of the property divided by the property value. It shows how much cash an investment property can generate for the investor annually after paying expenses.
+Property yield is the rate of return of an investment property. It is calculated by taking the annual net operating income of the property divided by the property value. The yield shows how much cash an investment property can generate for the investor annually after paying expenses.
 
 <center>**Property Yield = Annual Net Operating Income / Property Value**<br><br></center>
 For a direct property investment, the property value is (funded through) a combination of debt and equity.<br>
