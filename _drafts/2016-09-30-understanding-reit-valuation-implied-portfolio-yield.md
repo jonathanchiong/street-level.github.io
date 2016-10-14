@@ -17,7 +17,7 @@ Bulk of the NAV of a REIT is determined by the valuation of its investment prope
 
 For example, let's compare the valuation of Orchard Hotel (owned by CDL Hospitality Trusts) and Orchard Parade Hotel (owned by Far East Hospitality Trust). Both are hotels in the same price range, located opposite each other along the same road and generally much alike, as demostrated by the similar room prices. However, Orchard Hotel is valued at SGD 684k per room, while Orchard Parade Hotel is valued at SGD 1067k per room. Perhaps Orchard Parade Hotel can argubly say it commands a better frontage, it seems doubtful to us that this accounts for a 56% premium relative to Orchard Hotel, ceteris paribus. 
 
-Based solely on the trading a Premium (Discount) to NAV, it is premature to determine if a particular REIT is overvalued or undervalued.
+Based solely on the Premium (Discount) to NAV, it will be premature to conclude if a particular REIT is overvalued or undervalued.
 
 ### Distribution yield can be financially engineered (and most often is)
 Distributions of a REIT is highly dependedent on the source of funding for its investments. A REIT can increase its distributions by funding its investment with more debt (also means more risk). Distributions can also be increased by paying the management fees in REIT units instead of cash (requiring the issuance of new REIT units which dilutes the investors in the long run). Therefore, investors should not rely solely on comparing distribution yields when assessing REIT investments. 
