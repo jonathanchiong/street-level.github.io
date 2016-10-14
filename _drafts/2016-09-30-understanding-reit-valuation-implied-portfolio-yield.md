@@ -4,7 +4,7 @@ title: Understanding REIT Valuation - Implied Property Yield
 description: Using implied property yield as a valuation methodology
 date: 2016-09-30T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Finance-data.jpg'
-tags: 'REIT, valuation, cap rate, implied cap rate'
+tags: 'REIT, valuation, cap rate, implied'
 published: false
 ---
 
