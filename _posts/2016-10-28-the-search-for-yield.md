@@ -8,7 +8,7 @@ tags: 'REIT, yield, low interest rates, Feds hike, volatility'
 published: true
 ---
 
-<img src="http://www.street-level.co/assets/Civic-District-SG.jpg" width="500px"><br>
+<img src="{{ site.url }}/assets/Civic-District-SG.jpg" width="500px"><br>
 
 Prolonged record-low interest rate cycle has driven investors to high yield stocks, REITs and property in the last few years.  Even now, bond yields and interest rates seems likely to remain at low levels for longer than expected given the shaky state of the global economy.  We believe that REITs are well placed to benefit from this economic environment and will continue to outperform other asset classes in the medium term <!--more-->
 
