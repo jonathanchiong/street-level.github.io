@@ -8,7 +8,7 @@ tags: 'REIT, valuation, cap rate, implied'
 published: true
 ---
 
-<img src="http://www.street-level.co/assets/Finance-data.jpg" width="500px"><br>
+<img src="{{ site.url }}/assets/Finance-data.jpg" width="500px"><br>
 
 Two common valuation metrics used by investors when assessing REIT investments are Premium (Discount) to Net Asset Value ("NAV") and Distribution Yield. The former implies a relative value of the REIT while the latter provides an estimate on the cash flow returns for holding the REIT. While these are useful shorthand for understanding value, we caution that simply relying only on both of these metrics will not fully reflect the true underlying value and cash flow of the investment properties held by the REIT. <!--more-->
 
@@ -29,13 +29,13 @@ Property yield is the rate of return of an investment property. It is calculated
 <center>**Property Yield = Annual Net Operating Income / Property Value**<br><br></center>
 For a direct property investment, the property value is (funded through) a combination of debt and equity.<br>
 
-<img src="http://www.street-level.co/assets/Property-value.png" width="400px"><br>
+<img src="{{ site.url }}/assets/Property-value.png" width="400px"><br>
 
 However, for a REIT, the equity value (market capitalization) fluctuates on a day-to-day basis. Hence an **implied property value** can be derived by taking the market capitalization value and adding the net debt (total debt minus cash) of the REIT. Accordingly, investors can calculate the implied property yield by taking the annual net operating income of the property divided by the resultant **implied property value**<br>
 
 <center>**Implied Property Yield = Annual Net Operating Income / (Market cap + Debt - Cash)**<br></center>
 
-<img src="http://www.street-level.co/assets/Implied-property-value.png" width="490px"><br>
+<img src="{{ site.url }}/assets/Implied-property-value.png" width="490px"><br>
 
 ### Simple example - Frasers Commercial Trust's ("FCOT") implied property yield
 
@@ -51,6 +51,6 @@ This implies that FCOT's assets yields an average of 6.4% return based on the cu
 Implied property yield as a valuation metric provides a cleaner assessment of the rate of return on a REIT's properties and can be use as a like-for-like comparison with other physical assets or assets belonging to other REITs to determine how efficient the REIT's properties are in generating returns for its investors
 
 ### Limitation of using implied property yield as a valuation metric
-As with any valuation ratios, there are limitations in using implied property yield as well. The metric does not take into account the amount of debt (risk) and the financing costs (cash leakage) of a REIT. Therefore, investors need to continue to do their homework, a [key point we had emphasized before](http://www.street-level.co/2016/09/30/which-hotel-reit-to-invest-in.html), especially on the underlying properties and use implied property yield in conjunction with other financial and non-financial metric to assess the viability of a REIT investment. 
+As with any valuation ratios, there are limitations in using implied property yield as well. The metric does not take into account the amount of debt (risk) and the financing costs (cash leakage) of a REIT. Therefore, investors need to continue to do their homework, a [key point we had emphasized before]{{ site.url }}/2016/09/30/which-hotel-reit-to-invest-in.html), especially on the underlying properties and use implied property yield in conjunction with other financial and non-financial metric to assess the viability of a REIT investment. 
 
 We welcome comments! Please leave us a message in the box below.
