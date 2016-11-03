@@ -8,9 +8,9 @@ tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: true
 ---
 
-<img src="http://www.street-level.co/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
+<img src="{{ site.url }}/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
 
-Good investors will always do thorough research before deploying any capital.  Risk management is of utmost importance when it comes to investing, and **one of the most important way to manage risk is to know your investments well**.  In our [previous post](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), we highlighted that hotel REITs is one of the sub-sector to watch out for.  However, not all hotel REITs are the same and it is important to know exactly what you are buying into. <!--more-->
+Good investors will always do thorough research before deploying any capital.  Risk management is of utmost importance when it comes to investing, and **one of the most important way to manage risk is to know your investments well**.  In our [previous post]{{ site.url }}/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), we highlighted that hotel REITs is one of the sub-sector to watch out for.  However, not all hotel REITs are the same and it is important to know exactly what you are buying into. <!--more-->
 
 ### Know what you are buying - Hotels or service residences?
 There are 6 hospitality REITs listed on the Singapore stock exchange.  Not all of them are pure-play hotel REITs and it is important to look at what assets each of these REIT holds before you invest.  Out of the 6 hospitality REITs, only CDL Hospitality Trusts (CDL-HT) and Ascendas Hospitality Trust (AHT) are pure-play hotel REITs; OUE Hospitality Trust (OUE-HT) has a sizeable income derived from the prime-retail segment with its exposure to Orchard Mandarin Gallery; Frasers Hospitality Trust (FHT) and Far East Hospitality Trust (FEHT) have exposure to service residences; Ascott Residence Trust (ART) is actually a pure-play service residence REIT and should not be classify as a hotel REIT as the demand drivers and risk for hotels and service residences are different.  For example,
@@ -25,7 +25,7 @@ Hotel units are usually smaller as compared to service residences.  This means t
 Hotels have a broader range of amenities (such as meeting rooms, banquet halls, restaurants, spas, etc) and services (such as room service, bell hops, valet, daily housekeeping, etc).  These amenities and services can generate a sizable portion of revenues, albeit this also means higher operating costs (risk).
 
 **4. Threat of alternative accomdation platform**
-Demand for service residences are more prone to competition from alternative accomodation platforms (eg. Airbnb).  As alluded to in our [previous post](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), these alternative accommodation providers tend to target travellers who prefers a “home-like” experience, travellers on medium-term stays, or family/multi-family  travel groups which is a direct competition to service residences.
+Demand for service residences are more prone to competition from alternative accomodation platforms (eg. Airbnb).  As alluded to in our [previous post]({{ site.url }}/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), these alternative accommodation providers tend to target travellers who prefers a “home-like” experience, travellers on medium-term stays, or family/multi-family  travel groups which is a direct competition to service residences.
 
 The above mentioned factors significantly differentiates the risk/reward profile of hotel REITs as compared to service residence REITs.  Hence it is important to know what property a REIT holds to be able to assess the risk of your investment.
 
@@ -54,5 +54,5 @@ FHT's assets are across key tourism markets and hubs in Asia and Europe, and has
 Based on the closing prices as of 30 September 2016, CDL-HT is trading at 7.0% Last Twelve Months (LTM) yield and 10% discount to Net Asset Value (NAV), and FHT at 7.6% LTM yield and 12% discount to NAV.
 
 Below is a summary of the operating, financial and trading metrics of the 6 hospitality REITs listed in Singapore.
-<img src="http://www.street-level.co/assets/Hospitality-REITs-table-30Sep16.png" width="750px"><br>
+<img src="{{ site.url }}/assets/Hospitality-REITs-table-30Sep16.png" width="750px"><br>
 <sup>Source: Company filings, SGX.  Based on closing prices as of 30 Sep 2016</sup>
