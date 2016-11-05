@@ -26,7 +26,7 @@ From a low of approximately 5% vacancy in early 2011, vacancies has since risen 
 <img src="http://www.street-level.co/assets/Sg-resi-vacancy-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
-There are still substantial completions in 2017 and 2018, albeit at a slower rate than 2016. Over 31,000 units will be completed between 2017 and 2018. The market will take sometime to absorb these supply. We therefore expect vacancies to increase further, possibly going into double digit % as these completed units hit the market in the next 24 months.
+There remains substantial completions in 2017 and 2018, albeit at a slower pace than 2016. Over 31,000 units will be completed between 2017 and 2018 with the market likely to take sometime to absorb these supply due to the demographic trend outlined above. We therefore expect vacancies to further increase in the short term, possibly reaching low teens in vacancies percentages as these completed units enter the market in the next 24 months.
 
 <img src="http://www.street-level.co/assets/Sg-prop-pipeline-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
