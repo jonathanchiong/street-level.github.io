@@ -31,7 +31,7 @@ There remains substantial completions in 2017 and 2018, albeit at a slower pace 
 <img src="http://www.street-level.co/assets/Sg-prop-pipeline-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
-## 3. Policy will remains restrictive and removal of cooling measures not expected to take place in the near future. 
+### 3. Policy remains restrictive and removal of cooling measures not expected in the near future
 The [benign job market](http://www.straitstimes.com/singapore/layoffs-jobless-rates-rise-amid-sluggish-economy) is a concern for the goverment. Household debt among Singaporeans is [near all time high](http://sbr.com.sg/economy/news/steep-household-debt-biggest-speed-bump-ahead-singapore-report) and the largest proportion of household debt is from property mortgages. The goverment will continue to focus on affordability of housing as a priority, therefore we do not expect the government to implement any policy that would have the potential of increasing property prices in the near term.
 
 <br>
