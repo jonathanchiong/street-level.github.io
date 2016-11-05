@@ -9,7 +9,7 @@ published: true
 ---
 With uncertainties around the global economic climate and Singapore's economic growth, it is a challenge for real estate investors to seek out profitable investment strategies at the moment. We have strong reasons to believe that hotel REITs is a sub-sector to watch out for and could outperform other REIT sectors in the mid-term. In this post, we share our thoughts on the key demand drivers for the travel industry and how hotel REITs will benefit from the trend. 
 
-<img src="{{ site.url }}/assets/Fullerton-hotel.jpg" width="700px"><br><!--more-->
+<img src="{{ site.url }}/assets/Fullerton-hotel.jpg" width="600px"><br><!--more-->
 
 ### Millennials love to travel and travel spending is a core part of their expenditure
 Millennials[^1] have different spending mindset as compared with previous generations. They are more willing to spend on experiences, e.g. activities such as outdoor dining, art jam sessions, etc. and naturally holiday travels. An [article](http://thegbrief.com/articles/millennial-expectations-are-reshaping-travel-industry-602) published earlier this year shed some light on the impact of millennials on the travel industry. It was highlighted that millenials currently travel more often for business (4.7 times each year) and leisure (4.2 times per year) as compared to the previous generations. This change in spending behaviour would reshape the travel industry in the years to come.
