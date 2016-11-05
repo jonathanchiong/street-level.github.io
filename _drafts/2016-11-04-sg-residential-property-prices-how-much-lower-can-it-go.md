@@ -13,7 +13,7 @@ published: false
 In 3Q 2016, Singapore's private residential property prices continue to slide by 1.5%, taking the total drop in property prices to 11% from its peak in 2013. Market watchers and potential investors continue to wait for the elusive bottom in this property cycle. We believe that there is room for further decline in property prices and we share the key reasons behind our view.<!--more-->
 
 ### 1. Demand for residential units is weak and likely to continue
-Both leasing and buying demand for private residential units are highly correlated to the growth in the population of permanent residents ("PR") and non-residents ("NR", e.g. work permit holders, foreign students, etc.). Since the tightening of immigration and foreign labour policies in 2011, the growth in the number of PRs and NRs have remain low at an average of c.1.8% in the past 3 years and rather flattish in the last 5 years.
+Both leasing and buying demand for private residential units are highly correlated to the growth in the population of permanent residents ("PR") and non-residents ("NR", e.g. work permit holders, foreign students, etc.). Since the tightening of immigration and foreign labour policies in 2011, the growth in the number of PRs and NRs have remain low at an average of c.1.8% in the past 3 years and are rather flattish if we take a 5 year view.
 
 <img src="http://www.street-level.co/assets/PR-NR-population-growth-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
