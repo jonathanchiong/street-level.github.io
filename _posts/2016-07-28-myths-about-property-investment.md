@@ -8,10 +8,10 @@ tags: 'singapore, property, investing, myths'
 published: true
 ---
 
-Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.
-
 <img src="{{site.url}}/assets/Prop-invest.jpg" width="300px"><br>
-<sup>Designed by Freepik.com</sup><!--more-->
+<sup>Designed by Freepik.com</sup>
+
+Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.<!--more-->
 
 ### 1. You will always make money in real estate investment or "property prices always rise"
 Folks have the general notion that real estate are "safe" investments or (our favorite) "You can't go wrong investing in Singapore real estate!". We think this is partly attributed to the emotional security of holding a tangible asset, something you can reach out and touch. This give investors a false sense of security that real estate is safer relative to other intangible assets such as a stock or bond certificate. But is that really true? 
