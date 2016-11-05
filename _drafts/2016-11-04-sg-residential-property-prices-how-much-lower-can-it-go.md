@@ -18,7 +18,7 @@ Both leasing and buying demand for private residential units are highly correlat
 <img src="http://www.street-level.co/assets/PR-NR-population-growth-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
-This low growth rate has resulted in a weak rental market (demand) for residential units, the latter which is one of the leading indicators of property prices. With the rental index dropping 5.9% since the beginning of 2015 and 1.2% in the 3Q 2016, there are no indications that the decline is slowing. It is currently a tenant's market and rents are likely to decline further for the remaining of 2016 and 2017 with the impending rates hike in December.
+This low growth rate has resulted in a weak rental market (demand) for residential units, the latter which is one of the leading indicators of property prices. With the rental index dropping 5.9% since the beginning of 2015 and 1.2% in 3Q 2016 alone, we see no indications that the decline is slowing. It is currently a tenant's market and rents are likely to decline further for the remaining of 2016 and 2017 with the impending rates hike in December.
 
 ### 2. Significant number of completions in the last 3 years has resulted in the doubling of vacancies. Absorption of supply will take time
 From a low of approximately 5% vacancy in early 2011, vacancies has since risen to (and is now hovering at) c.9% based on the latest data from URA. 
