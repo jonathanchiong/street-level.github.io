@@ -9,7 +9,7 @@ published: true
 ---
 
 <img src="{{site.url}}/assets/Prop-invest.jpg" width="300px"><br>
-<sup>Designed by Freepik.com</sup>
+<sup>Designed by Freepik.com</sup><br>
 
 Investing in real estate is a popular way amongst Singaporeans to grow their wealth. In this post, we discuss how real estate investors can invest smartly and avoid some of the common misconceptions.<!--more-->
 
