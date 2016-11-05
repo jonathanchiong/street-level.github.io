@@ -1,10 +1,10 @@
 ---
 layout: post
 title: SG Residential Property Prices - How Much Lower Can It Go?
-description: Weak demands and strong supply continues to drive prices lower 
-date: 2016-11-04
+description: Weak demands and strong supply continues to drive prices lower
+date: 2016-11-04T00:00:00.000Z
 image: 'http://www.street-level.co/assets/HDB-BP-flats.jpg'
-tags: 'Singapore residential property prices, property prices, Singapore residential, Singapore property'
+tags: 'Singapore, residential, property, prices'
 published: false
 ---
 <img src="http://www.street-level.co/assets/HDB-BP-flats.jpg" width="700px"><br>
