@@ -3,11 +3,11 @@ layout: post
 title: Singapore Residential Property Prices - How Much Lower?
 description: Weak demands and strong supply continues to drive prices lower
 date: 2016-11-05T00:00:00.000Z
-image: 'http://www.street-level.co/assets/HDB-BP-flats.jpg'
+image: 'http://www.street-level.co/assets/CapLand-Interlace.jpg'
 tags: 'Singapore, residential, property, prices'
 published: true
 ---
-<img src="{{site.url}}/assets/HDB-BP-flats.jpg" width="500px"><br>
+<img src="{{site.url}}/assets/CapLand-Interlace.jpg" width="500px"><br>
 <sup>The Interlace | CapitaLand</sup><br>
 
 In 3Q 2016, Singapore's private residential property prices continue to slide by 1.5%, taking the total drop in property prices to 11% from its peak in 2013. Market watchers and potential investors continue to wait for the elusive bottom in this property cycle. We believe that there is room for further decline in property prices and we share the key reasons behind our view.<!--more-->
