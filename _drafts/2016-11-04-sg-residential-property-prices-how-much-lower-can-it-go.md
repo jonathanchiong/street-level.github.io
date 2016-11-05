@@ -13,14 +13,14 @@ published: false
 In 3Q 2016, Singapore's private residential property prices continue to slide by 1.5%, taking the total drop in property prices to 11% from its peak in 2013.  Market watchers and potential investors continue to wait for the elusive bottom in this property cycle.  We believe that there is room for further decline in property prices and we share the key reasons behind our view.<!--more-->
 
 ### 1. Demand for residential units is weak and will continue to remain weak
-Both leasing and buying demand for private residential units are highly correlated to the growth in the population of permanent residents ("PR") and non-residents ("NR", e.g. work permit holders, foreign students, etc.). Since the tightening of immigration and foreign labour policies in 2011, the growth in the number of PRs and NRs have remain low at an average of c.1.8% in the past 3 years; the number of PRs have remain flattish in the last 5 years.
+Both leasing and buying demand for private residential units are highly correlated to the growth in the population of permanent residents ("PR") and non-residents ("NR", e.g. work permit holders, foreign students, etc.). Since the tightening of immigration and foreign labour policies in 2011, the growth in the number of PRs and NRs have remain low at an average of c.1.8% in the past 3 years and rather flattish in the last 5 years.
 
 <img src="http://www.street-level.co/assets/PR-NR-population-growth-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
-This low population growth has resulted in a weak rental market for residential units.  The rental market is one of the leading indicators of property prices.  With the rental index dropping 5.9% since the beginning of 2015 and 1.2% in the 3Q 2016, there are no indications that the decline will slow down.  It is currently a tenant's market and rents looks set to decline further for the remaining of 2016 and 2017.  
+This low growth rate has resulted in a weak rental market for residential units.  The rental market is one of the leading indicators of property prices.  With the rental index dropping 5.9% since the beginning of 2015 and 1.2% in the 3Q 2016, there are no indications that the decline will slow down.  It is currently a tenant's market and rents looks set to decline further for the remaining of 2016 and 2017.  
 
-### 2.  Significant number of completions in the last 3 years has resulted in the doubling of vacancies.  Market will take time to absorb the supply.
+### 2.  Significant number of completions in the last 3 years has resulted in the doubling of vacancies. Market will take time to absorb the supply.
 From the lows of approximately 5% vacancy in early 2011, vacancies has since risen to and is now hovering at around 9% based on the latest data from URA.  
 
 <img src="http://www.street-level.co/assets/Sg-resi-vacancy-Nov16.png" width="650px"><br>
