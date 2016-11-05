@@ -8,7 +8,7 @@ tags: 'singapore, property, investment, hotels, tourism, REIT, travel'
 published: true
 ---
 
-<img src="{{ site.url }}/assets/Terminal-4-Changi-Airport.jpg" width="600px"><br>
+<img src="{{ site.url }}/assets/Terminal-4-Changi-Airport.jpg" width="550px"><br>
 
 Good investors will always do thorough research before deploying any capital.  Risk management is of utmost importance when it comes to investing, and **one of the most important way to manage risk is to know your investments well**.  In our [previous post]({{ site.url }}/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html), we highlighted that hotel REITs is one of the sub-sector to watch out for.  However, not all hotel REITs are the same and it is important to know exactly what you are buying into. <!--more-->
 
