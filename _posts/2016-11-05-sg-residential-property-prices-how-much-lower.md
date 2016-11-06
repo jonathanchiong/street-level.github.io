@@ -8,7 +8,7 @@ tags: 'Singapore, residential, property, prices'
 published: true
 ---
 <img src="{{site.url}}/assets/Robertson-Blue-Condo.jpg" width="500px"><br>
-<sup>By Erwin Soo</sup><br>
+<sup>Picture By Erwin Soo</sup><br>
 
 In 3Q 2016, Singapore's private residential property prices continue to slide by 1.5%, taking the total drop in property prices to 11% from its peak in 2013. Market watchers and potential investors continue to wait for the elusive bottom in this property cycle. We believe that there is room for further decline in property prices and we share the key reasons behind our view.<!--more-->
 
