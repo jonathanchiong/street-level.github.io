@@ -15,7 +15,7 @@ Most of the blue-chip Singapore REITs(S-REITs) have traded down [2]% to [9]% sin
 The weakness in S-REITs reflects the risks of an impending Fed rates hike in December 2016 and the uncertainty in global economic growth with the Trump presidency.  However, we think that most of the risks have been priced in and the recent weakness in share prices presents an opportunity for investors to accumuate S-REITs at a reasonable prices.  In this post, we share the reasons behind our view and a simple way to look at S-REIT valuation in general.
 
 ### Interest rates will move up, but any increases will be moderate
-One of the key drivers of profitability for real estate and REITs is interest costs, and hence, we need to consider the implications of the long term risk-free rate on REITs. The 10-year Singapore Government Securities(SGS) yield[https://secure.sgs.gov.sg/fdanet/SgsBenchmarkIssuePrices.aspx] (also called the SG risk-free rate) is a key benchmark for S-REIT valuations. This benchmark rate has moved up approximately [40] percentage points since the results of the US Presidential Elections reflecting the scenerio of a likely interest rate hike in December 2016.  This move up have resulted in the correction of S-REIT prices in the last two weeks.
+One of the key drivers of profitability for real estate and REITs is interest costs, and hence, we need to consider the implications of the long term risk-free rate on REITs. The (10-year Singapore Government Securities(SGS) yield)[https://secure.sgs.gov.sg/fdanet/SgsBenchmarkIssuePrices.aspx] (also called the SG risk-free rate) is a key benchmark for S-REIT valuations. This benchmark rate has moved up approximately [40] percentage points since the results of the US Presidential Elections reflecting the scenerio of a likely interest rate hike in December 2016.  This move up have resulted in the correction of S-REIT prices in the last two weeks.
 
 <img src="http://www.street-level.co/assets/Sg-bond-yield-ytd2016.png" width="500px"><br>
 
@@ -28,11 +28,11 @@ With the current 10-yr SGS yield at [2.35]%, there is still room for further inc
 ### Value is emerging in S-REITs and downside risks seems limited
 Historically, S-REITs trade at an average of 1.0x Price-to-NAV(P/NAV) and [6.2]% yield.  At current P/NAV of 0.96x, S-REITs are trading at close to their -1 Standard Deviation(SD) of 0.92x P/NAV.
 
-<img src="http://www.street-level.co/assets/S-reit-pnav-Nov16.png" width="500px"><br>
+<img src="http://www.street-level.co/assets/S-reits-pnav-Nov16.png" width="500px"><br>
 
 In addition, current S-REIT yield of [6.8]% is above the +1 SD of 6.7%.  
 
-<img src="http://www.street-level.co/assets/S-reit-yield-Nov16.png" width="500px"><br>
+<img src="http://www.street-level.co/assets/S-reits-yield-Nov16.png" width="500px"><br>
 
 A more important metric then yield is the yield spread.  The S-REIT yield spread is the difference between the average S-REIT yield and the 10-yr SGS yield.  This is argubably a more important metric than yield because this implies the premium investors wants to be compensated for, for bearing market risk above the risk-free-rate.  
 
