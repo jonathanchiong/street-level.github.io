@@ -4,7 +4,7 @@ title: Singapore REITs - Is is time to invest?
 description: Weakness in REIT prices presents an oppportunity for investors to accumulate
 date: 2016-11-25T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Stock-market.jpg'
-tags: 'singapore reits, us elections, trump, yield, yield spread, property, prices'
+tags: 'singapore reits, us elections, trump, yield, yield spread, property prices'
 published: true
 ---
 <img src="http://www.street-level.co/assets/Stock-market.jpg" width="500px"><br>
