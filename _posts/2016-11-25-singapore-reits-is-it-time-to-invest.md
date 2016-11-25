@@ -7,10 +7,9 @@ image: 'http://www.street-level.co/assets/Stock-market.jpg'
 tags: 'singapore reits, us elections, trump, yield, yield spread, property, prices'
 published: true
 ---
+<img src="http://www.street-level.co/assets/Stock-market.jpg" width="500px"><br>
 
 Most blue-chip Singapore REITs(S-REITs) prices have declined 4% to 6% on average since the results of the US Presidential Elections. S-REITs now trade at an average of 6.8% yield and 0.95x Price to NAV (P/NAV) as of 24 November 2016.  With the weakness in S-REIT prices in the last 2 weeks, is now a good time to invest into the sector? <!--more-->
-
-<img src="http://www.street-level.co/assets/Stock-market.jpg" width="500px"><br>
 
 The weakness in S-REITs reflects the risks of an impending Feds rate hike in December 2016 and the uncertainty in global economic growth with the Trump presidency.  However, we think that most of the risks have been priced in and the recent weakness in share prices presents an opportunity for investors to accumuate S-REITs at a reasonable prices.  In this post, we share the reasons behind our view and a simple way to look at S-REIT valuation in general.
 
