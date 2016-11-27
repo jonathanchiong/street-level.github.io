@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore REITs - Is is time to invest?
+title: Singapore REITs - Is it time to invest?
 description: Weakness in REIT prices presents an oppportunity for investors to accumulate
 date: 2016-11-25T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Stock-market.jpg'
