@@ -15,7 +15,7 @@ In 3Q 2016, Singapore's private residential property prices continue to slide by
 ### 1. Demand for residential units is weak and likely to continue
 Both leasing and buying demand for private residential units are highly correlated to the growth in the population of permanent residents ("PR") and non-residents ("NR", e.g. work permit holders, foreign students, etc.). Since the tightening of immigration and foreign labour policies in 2011, the growth in the number of PRs and NRs have remain low at an average of c.1.8% in the past 3 years and are rather flattish if we take a 5 year view.
 
-<img src="http://www.street-level.co/assets/PR-NR-population-growth-Nov16.png" width="650px"><br>
+<img src="{{site.url}}/assets/PR-NR-population-growth-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
 This low growth rate has resulted in a weak rental market (demand) for residential units, the latter which is one of the leading indicators of property prices. With the rental index dropping 5.9% since the beginning of 2015 and 1.2% in 3Q 2016 alone, we see no indications that the decline is slowing. It is currently a tenant's market and rents are likely to decline further for the remaining of 2016 and 2017 with the impending rates hike in December.
@@ -23,13 +23,13 @@ This low growth rate has resulted in a weak rental market (demand) for residenti
 ### 2. Significant number of completions in the last 3 years has resulted in the doubling of vacancies. Absorption of supply will take time
 From a low of approximately 5% vacancy in early 2011, vacancies has since risen to (and is now hovering at) c.9% based on the latest data from URA. 
 
-<img src="http://www.street-level.co/assets/Sg-resi-vacancy-Nov16.png" width="650px"><br>
+<img src="{{site.url}}/assets/Sg-resi-vacancy-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
 
 There remains substantial completions in 2017 and 2018, albeit at a slower pace than 2016. Over 31,000 units will be completed between 2017 and 2018 with the market likely to take sometime to absorb these supply due to the demographic trend outlined above. We therefore expect vacancies to further increase in the short term, possibly reaching low teens in vacancies percentages as these completed units enter the market over the next 24 months.
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline-Nov16.png" width="650px"><br>
+<img src="{{site.url}}/assets/Sg-prop-pipeline-Nov16.png" width="650px"><br>
 <sup>Source: Singstats</sup><br>
 
 ### 3. Policy remains restrictive and removal of cooling measures not expected in the near future
