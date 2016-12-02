@@ -14,7 +14,7 @@ Singapore REITs(S-REITs) offers high and stable dividend yields from exposure to
 But not all S-REIT sectors are the same and carefully selecting your exposure to the right sector can help you outperform the general S-REIT market.  In this article, we provide our views and comparison on key real estate fundamentals - rental growth, upcoming supply, potential threats, and valuation - across the various S-REIT sectors.  We will only focus on S-REITs with a primary exposure to Singapore real estate in this analysis. 
 
 ### Retail
-**Rental Growth - XX**
+**Rental Growth**<img src="http://www.streetlevel.co/assets/Star.png" width="50px"><img src="http://www.streetlevel.co/assets/Star.png" width="50px">
 Rental growth for retail spaces is on a gradual decline, particularly for City Area shopping malls, with the area's median rental declining 8-10% yoy based on the latest statistics from the [Urban Redevelopment Authority(URA)](http://www.ura.gov.sg). While the pace of rental decline is slowing, the growth outlook of the retail sector remains fragile, hampered by structural changes in consumer behavior and the benign employment environment in Singapore.  Consumers will be cautious in discretionary spending given the uncertainty in job security and wages growth.  We expect retail rents to at best be flattish in the next 12 months.
 
 **Upcoming Supply - XX**
