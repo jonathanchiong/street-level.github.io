@@ -7,7 +7,7 @@ image: 'http://www.street-level.co/assets/Robertson-Blue-Condo.jpg'
 tags: 'Singapore REITs, S-REIT sectors, 2017 outlook, S-REITs'
 published: false
 ---
-<img src="http://www.streetlevel.co/assets/Robertson-Blue-Condo.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/Robertson-Blue-Condo.jpg" width="500px"><br>
 
 Singapore REITs(S-REITs) offers high and stable dividend yields from exposure to primarily the Singapore real estate sector, and across Asia Pacific real estate. It is the [highest yielding REIT market](http://www.straitstimes.com/business/companies-markets/singapore-reits-offer-highest-dividend-yields-among-developed-markets) among developed countries, yielding over 6% per annum on average.  
 
@@ -15,7 +15,7 @@ But not all S-REIT sectors are the same and carefully selecting your exposure to
 
 ### Retail
 **Rental Growth**
-<img src="http://www.streetlevel.co/assets/Star.png" width="50px"><img src="http://www.streetlevel.co/assets/Star.png" width="50px">
+<img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px">
 Rental growth for retail spaces is on a gradual decline, particularly for City Area shopping malls, with the area's median rental declining 8-10% yoy based on the latest statistics from the [Urban Redevelopment Authority(URA)](http://www.ura.gov.sg). While the pace of rental decline is slowing, the growth outlook of the retail sector remains fragile, hampered by structural changes in consumer behavior and the benign employment environment in Singapore.  Consumers will be cautious in discretionary spending given the uncertainty in job security and wages growth.  We expect retail rents to at best be flattish in the next 12 months.
 
 **Upcoming Supply - XX**
