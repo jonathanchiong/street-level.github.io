@@ -93,7 +93,7 @@ Unforeseen major epidemic in the region or geopolitical events could curtail the
 <img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><br>
 Hospitality S-REITs are trading at an average yield of 7.6% and 0.8x P/NAV. This is highest yielding and arguably the most undervalued sector among S-REITs.
 
-**Preferred Sector Pick**
+**Preferred Sector Pick**<br>
 We like CDL Hospitality Trusts and Frasers Hospitality Trust for its diversified portfolio of hotels in key tourist markets, defensive master-leased structure for majority of their assets and its strong sponsor profile.
 
 ### Conclusions
