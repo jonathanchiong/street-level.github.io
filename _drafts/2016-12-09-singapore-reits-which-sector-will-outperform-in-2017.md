@@ -28,7 +28,7 @@ Online shopping have been a major threat to the retail industry.  Mall operator
 
 **Trading Valuation**
 <img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><br>
-Retail S-REITs are trading at an average yield of 6.4% and 0.95x P/NAV.
+Retail S-REITs are trading at an average yield of 6.3% and 0.96x P/NAV.
 
 **Preferred Sector Pick**<br>
 We prefer Frasers Centerpoint Trust as its shopping centres are heartland malls strategically located next to and with connectivity to MRT stations and/or bus interchanges which are typically more defensive and well supported by sustainable footfalls.  Its key assets are Causeway Point, Northpoint and Changi City Point which acccounts for more than 80% of the REIT's cashflows.
@@ -49,7 +49,7 @@ Key risk for office demand is prolonged global economic headwinds and a continue
 
 **Trading Valuation**
 <img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><br>
-Office S-REITs are trading at an average yield of 6.2% and 0.82x P/NAV.
+Office S-REITs are trading at an average yield of 6.1% and 0.84x P/NAV.
 
 **Preferred Sector Pick**<br>
 We prefer CapitaLand Commercial Trust for its larger and more diversified portfolio anchored around the traditional CBD area of Tanjong Pagar and Raffles Place area.  Rents in those areas are lower and less volatitle (as compared to Marina Bay area).  The REIT also has two assets - Six Battery Road and HSBC Building - who are on effectively freehold tenure in core locations, which is nowdays rare to acquire in Singapore.  
@@ -70,7 +70,7 @@ Weak exports and manufacturing environement limits expansion plans.  However, t
 
 **Trading Valuation**
 <img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><br>
-Industrial S-REITs are trading at an average yield of 7.3% and 1.08x P/NAV.
+Industrial S-REITs are trading at an average yield of 7.1% and 1.11x P/NAV.
 
 **Preferred Sector Picks**<br>
 We like Mapletree Logistic Trust for its geographically diversified portfolio in Asia and its ability to develop modern logistics facility in the region.  The logistics sub-sector in Asia should do relatively well supported by demands from third party logistics players and e-commerce activities.  [Amazon recently signed a lease](http://www.businesstimes.com.sg/real-estate/amazon-takes-up-100000-sq-ft-at-mapletree-facility-sources) for 100,000 square feet of spaces at Mapletree Logistics Hub at Toh Guan area.
@@ -91,7 +91,7 @@ Unforeseen major epidemic in the region or geopolitical events could curtail the
 
 **Trading Valuation**
 <img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><img src="http://www.street-level.co/assets/Star.png" width="25px"><br>
-Hospitality S-REITs are trading at an average yield of 7.6% and 0.8x P/NAV. This is highest yielding and arguably the most undervalued sector among S-REITs.
+Hospitality S-REITs are trading at an average yield of 7.5% and 0.83x P/NAV. This is highest yielding and arguably the most undervalued sector among S-REITs.
 
 **Preferred Sector Pick**<br>
 We like CDL Hospitality Trusts and Frasers Hospitality Trust for its diversified portfolio of hotels in key tourist markets, defensive master-leased structure for majority of their assets and its strong sponsor profile.
