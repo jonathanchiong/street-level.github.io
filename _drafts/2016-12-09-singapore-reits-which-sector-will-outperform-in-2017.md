@@ -7,7 +7,7 @@ image: 'http://www.street-level.co/assets/SG-CBD-Buildings.jpg'
 tags: 'Singapore REITs, S-REIT sectors, 2017 outlook, S-REITs'
 published: false
 ---
-<img src="http://www.street-level.co/assets/SG-CBD-Building.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/SG-CBD-Buildings.jpg" width="500px"><br>
 
 Singapore REITs(S-REITs) offers high and stable dividend yields from exposure to primarily the Singapore real estate sector, and across Asia Pacific real estate. It is the [highest yielding REIT market](http://www.straitstimes.com/business/companies-markets/singapore-reits-offer-highest-dividend-yields-among-developed-markets) among developed countries, yielding over 6% per annum on average.  
 
