@@ -15,6 +15,7 @@ But not all S-REIT sectors are the same and careful selection of your exposure t
 
 ### Retail
 **Rental Growth★★**
+
 Rental growth for retail spaces is on a gradual decline, particularly for downtown shopping malls, with the area's median rental declining 8-10% yoy based on the latest statistics from the [Urban Redevelopment Authority (URA)](http://www.ura.gov.sg). While the pace of rental decline is slowing, the growth outlook of the retail sector remains fragile, hampered by structural changes in consumer behavior (e.g. e-commerce, emphasis on experiential spending vs. material goods) and the benign employment environment in Singapore. Consumers are expected to be cautious in discretionary spending given the uncertainty in job security and wages growth. We expect retail rents to at best be flattish over the next 12 months.
 
 **Upcoming Supply★★**
