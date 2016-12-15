@@ -74,9 +74,11 @@ Record supply in 2016 and 2017 and subdued demand should continue to restrict th
 Weak export and manufacturing environment limits expansion plans. However, the governments focus towards automation and high technology industry should promote the usage of modern hi-end industrial and logistics space.
 
 **Trading Valuation★★★**
+
 Industrial S-REITs are trading at an average yield of 7.1% and 1.11x P/NAV.
 
 **Preferred Sector Picks**
+
 We like Mapletree Logistic Trust for its geographically diversified portfolio in Asia and its proven ability to develop modern logistics facility in the region. The logistics sector in Asia should do relatively well supported by demands from third party logistics players and E-commerce activities. [Amazon has recently signed a lease](http://www.businesstimes.com.sg/real-estate/amazon-takes-up-100000-sq-ft-at-mapletree-facility-sources) for 100,000 square feet of spaces at Mapletree Logistics Hub at Toh Guan area.
 
 
