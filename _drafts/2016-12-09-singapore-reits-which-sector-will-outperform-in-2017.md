@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore REITs - Which Sector Will Outperform in 2017
+title: Singapore REITs - Which sector will outperform in 2017?
 description: Comparison and analysis of S-REIT sectors
 date: 2016-12-09T00:00:00.000Z
 image: 'http://www.street-level.co/assets/SG-CBD-Buildings.jpg'
