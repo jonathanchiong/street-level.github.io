@@ -5,7 +5,7 @@ description: Comparison and analysis of S-REIT sectors
 date: 2016-12-09T00:00:00.000Z
 image: 'http://www.street-level.co/assets/SG-CBD-Buildings.jpg'
 tags: 'Singapore REITs, S-REIT sectors, 2017 outlook, S-REITs'
-published: false
+published: true
 ---
 <img src="http://www.street-level.co/assets/SG-CBD-Buildings.jpg" width="500px"><br>
 
