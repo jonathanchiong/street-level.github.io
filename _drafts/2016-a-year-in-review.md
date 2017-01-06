@@ -26,7 +26,7 @@ As recently as October 2016 in Minister Lawrence Wong's COS 2016 speech, he had 
 
 #### **Fed raised federal-funds range to 0.50%-0.75%**
 
-By a unanimous vote on December 14 2016, the Fed raised its federal-funds range to 0.50%-0.75%, its second rate increase in a decade. At the same time, Fed officials said current economic conditions warrants only “gradual increases” in the federal-funds rate. Despite that, Fed officials had penciled in three quarter-point rate increases in 2017 instead of two expected earlier in September 2016 - which means the rates might rise faster than anticipated.  It remains to be seen if the Fed will deliver the 3 expected hikes (afterall they sang a similar tune same time last year, but "under delivered" in the end).
+By a unanimous vote on December 14 2016, the Fed raised its federal-funds range to 0.50%-0.75%, its second rate increase in a decade. At the same time, Fed officials said current economic conditions warrants only “gradual increases” in the federal-funds rate. Despite that, Fed officials had penciled in three quarter-point rate increases in 2017 instead of two expected earlier in September 2016 - which means the rates might rise faster than anticipated.  It remains to be seen if the Fed will deliver the 3 expected hikes (afterall they sang a similar tune around the same time last year, but "under delivered" in the end).
 
 #### **Thank you for staying with us this 2016**
 
