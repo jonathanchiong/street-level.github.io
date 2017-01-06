@@ -18,7 +18,7 @@ Advance estimates released by the Ministry of Trade and Industry ("MTI") announc
 
 #### **Private home prices slipped for 13 consecutive quarters**
 
-Based on URA's flash estimates for Q4, private home prices are likely to had fallen 3% while HDB resale prices dropped 0.15%. These declines were smaller than the respective 3.7% and 1.6% decrease in 2015. The 0.4% decline in private home prices during Q4 was also milder than the 1.5% fall in Q3. A market quick turnaround is not likely though given the weak economic sentiment, rising interest rates and uncertainty in the jobs market. A surprise bright spot in the data was the quarterly price uptick for landed homes for Q4 which had some brokers declaring that the [buying has started](http://www.propertyguru.com.sg/property-management-news/2017/1/143918/landed-home-prices-up-for-first-time-since-2013)...
+Based on URA's flash estimates for Q4 2016, private home prices are likely to had fallen 3.0% for the full year 2016 while HDB resale prices dropped 0.15%. These declines were, however, smaller than the respective 3.7% and 1.6% decrease in 2015. The 0.4% decline in private home prices during Q4 was also milder than the 1.5% fall in Q3. A market quick turnaround is not likely though given the weak economic sentiment, rising interest rates and uncertainty in the jobs market. A surprise bright spot in the data was the quarterly price uptick for landed homes for Q4 2016 which had some brokers declaring that the [buying has started](http://www.propertyguru.com.sg/property-management-news/2017/1/143918/landed-home-prices-up-for-first-time-since-2013)... 
 
 #### **Cooling Measures to Stay**
 
@@ -26,7 +26,7 @@ As recently as October 2016 in Minister Lawrence Wong's COS 2016 speech, he had 
 
 #### **Fed raised federal-funds range to 0.50%-0.75%**
 
-By a unanimous vote on December 14, the Fed raised its federal-funds range to 0.50%-0.75%, its second rate increase in a decade. At the same time, Fed officials said current economic conditions warrants only “gradual increases” in the federal-funds rate. Despite that, Fed officials had penciled in three quarter-point rate increases in 2017 instead of two seen in September - which means the rates might rise faster than anticipated. 
+By a unanimous vote on December 14 2016, the Fed raised its federal-funds range to 0.50%-0.75%, its second rate increase in a decade. At the same time, Fed officials said current economic conditions warrants only “gradual increases” in the federal-funds rate. Despite that, Fed officials had penciled in three quarter-point rate increases in 2017 instead of two expected earlier in September 2016 - which means the rates might rise faster than anticipated.  It remains to be seen if the Fed will deliver the 3 expected hikes (afterall they sang a similar tune same time last year, but "under delivered" in the end).
 
 #### **Thank you for staying with us this 2016**
 
