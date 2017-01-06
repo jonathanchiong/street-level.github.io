@@ -5,7 +5,7 @@ description: Retrospective view of 2016 from a Singapore real estate perspective
 date: 2017-01-03
 image: www.street-level.co/assets/singapore-fireworks.jpg
 tags: 'singapore, residential, GDP, rates, cooling measures, investment'
-published: false
+published: true
 ---
 <img src="{{site.url}}/assets/singapore-fireworks.jpg" width="500px"><br>
 <sup>Copyright 2015 Global Art Ltd</sup><br>
