@@ -3,4 +3,4 @@
 Real Estate Investing in Singapore
 
 
-Made in Singapore — © 2016 Street Level.
+Made in Singapore — © 2017 Street Level.
