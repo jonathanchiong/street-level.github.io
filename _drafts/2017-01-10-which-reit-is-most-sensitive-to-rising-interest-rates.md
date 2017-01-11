@@ -8,7 +8,7 @@ tags: 'reits, interest rates, rate hikes, rising rates, investments'
 published: false
 ---
 
-<img src="http:/www.street-level.co/assets/Bull-charge.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/Bull-charge.jpg" width="500px"><br>
 
 The US Federal Reserve [hike interest rates](http://www.forbes.com/sites/laurengensler/2016/12/14/federal-reserve-december-rate-hike/#44b027dd1229) for the second time in a decade on 14 December 2016.  Singapore interest rates correspondingly rose following the Feds hike with the [3-month SIBOR and SOR continually testing the 1% level](http://www.businesstimes.com.sg/banking-finance/pressure-on-sibor-sor-continues-in-the-new-year-rising-to-around-1) in the last few weeks.  Market is now expecting the Feds to be more aggressive in raising rates in 2017, with three rate hikes anticipated for the year.  Interest cost have the biggest impact on profitability for real estate investors, and the risk and impact of rising rates needs to be duly considered.  
 
@@ -30,7 +30,7 @@ Most S-REITs hedged a substantial portion of their bank borrowings through inter
 ### Office and Retail REITs are more exposed in a rising rate environment
 Office and retail properties tend to have lower yields as compared with industrial/logistic REITs. A typical Grade-A office building or a retail mall in Singapore yields about 3-5% while an industrial/logistic property yields about 7-9%.  Therefore, financing expenses as a proportion to revenue are higher for office and retail assets, resulting in greater sensitivity to changes in interest rates.
 
-### The Analysis - Impact of rising rates on REITs 
+### Potential impact of rising rates on S-REITs 
 Taking the above into considerations, the diagram below provides the output of our analysis.
 
 <img src="http://www.street-level.co/assets/Sreits-interest-rate-sensitivity-Jan17.png" width="700px"><br>
