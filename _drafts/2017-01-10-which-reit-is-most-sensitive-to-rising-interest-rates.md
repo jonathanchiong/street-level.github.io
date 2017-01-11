@@ -8,7 +8,7 @@ tags: 'reits, interest rates, rate hikes, rising rates, investments'
 published: false
 ---
 
-<img src="www.street-level.com/assets/singapore-fireworks.jpg" width="500px"><br>
+<img src="http:/www.street-level.com/assets/singapore-fireworks.jpg" width="500px"><br>
 <sup>Copyright 2015 Global Art Ltd</sup><br>
 
 The US Federal Reserve [hike interest rates](http://www.forbes.com/sites/laurengensler/2016/12/14/federal-reserve-december-rate-hike/#44b027dd1229) for the second time in a decade on 14 December 2016.  Singapore interest rates correspondingly rose following the Feds hike with the [3-month SIBOR and SOR continually testing the 1% level](http://www.businesstimes.com.sg/banking-finance/pressure-on-sibor-sor-continues-in-the-new-year-rising-to-around-1) in the last few weeks.  Market is now expecting the Feds to be more aggressive in raising rates in 2017, with three rate hikes anticipated for the year.  Interest cost have the biggest impact on profitability for real estate investors, and the risk and impact of rising rates needs to be duly considered.  
@@ -21,12 +21,12 @@ Our analysis focus only on the largest 25 REITs by market capitalisation listed 
 ### Higher leveraged REITs are typically more sensitive to rising rates
 Probably the most obvious point - the higher leverage a REIT is, the more sensitive it is to higher interest costs.  S-REITs on average is geared at 34% debt-to-assets.  There is a 45% regulatory cap on the leverage an S-REIT can take.  The highest leveraged REIT is Ascott Residence Trust(ART) at 41.0% leverage, which is still well within the regulatory cap.   Temasek-linked REITs tend to have stronger financial flexibility and influence when it comes to bank borrowings or tapping the debt capital markets.  Therefore, it is no coincidence that the 3 highest leveraged REITs are Temasek-linked REITs.
 
-<img src="www.street-level.co/assets/Sreits-leverage-Jan17.png" width="700px"><br>
+<img src="http://www.street-level.co/assets/Sreits-leverage-Jan17.png" width="700px"><br>
 
 ### Interest rate swaps and fixed-rate debt mitigates interest rate risk
 Most S-REITs hedged a substantial portion of their bank borrowings through interest rates swaps or options.  S-REITs can also tap the bond market for fixed-rate medium term debt.  Another common source of fixed-rate debt is the bonds market.  Most bond issuance in Singapore are fixed rate bonds and REITs with the ability to tap the bond market for fixed rate medium term notes have the advantage to lock-in interest costs for the medium term.On average, S-REITs hedged approximately 79% of their borrowings.  Among the 25 REITs analyzed,  14 has more than 80% of their borrowings hedged. It must however be noted that most hedges are for the short to mid-term (it gets expensive to hedge interest rates beyond 3-5 years).  So eventually, in the longer run, the higher interest rates will impact the REITs.  However, for the scope of our analysis, we will only assess the risk of  of rising rates in the next 12 months as we believe that longer term interest rate rises should correspond to better economic fundametals which will in turn accelerate topline growth of the REIT and thereby minimizing, if not improving, a REIT's distribution.  
 
-<img src="www.street-level.co/assets/Sreits-hedging-Jan17.png" width="700px"><br>
+<img src="http://www.street-level.co/assets/Sreits-hedging-Jan17.png" width="700px"><br>
 
 ### Office and Retail REITs are more exposed in a rising rate environment
 Office and retail properties tend to have lower yields as compared with industrial/logistic REITs. A typical Grade-A office building or a retail mall in Singapore yields about 3-5% while an industrial/logistic property yields about 7-9%.  Therefore, financing expenses as a proportion to revenue are higher for office and retail assets, resulting in greater sensitivity to changes in interest rates.
@@ -34,11 +34,11 @@ Office and retail properties tend to have lower yields as compared with industri
 ### The Analysis - Impact of rising rates on REITs 
 Taking the above into considerations, the diagram below provides the output of our analysis.
 
-<img src="www.street-level.co/assets/Sreits-interest-rate-sensitivity-Jan17.png" width="700px"><br>
+<img src="http://www.street-level.co/assets/Sreits-interest-rate-sensitivity-Jan17.png" width="700px"><br>
 
 The top 3 REIT most sensitive to higher interest rates are CapitaLand Retail China Trust(CRCT), Keppel REIT(K-REIT) and CDL Hospitality Trusts(CDL-HT). These REITs are characterised by lower proportion of hedging on their debt at 53%, 74% and 61% respectively and above average leverage (though we caveat that they still have a substantial headroom before reaching the regulatory cap).  Taking all into consideration, it seems that the short-term impact of higher rates on distributable income of the REITs is not substantial.  On average, the reduction in distributable income is only 2.1% and 1.1% for a 1% and 0.5% rise in rates respectively, supported by the large proportion of hedging and generally lower leverage of Singapore REITs.
 
-### Conclusion - Rising rates does not pose a significant risk for S-REITs in the short-term
+### Conclusion - Rising rates should not pose a significant risk to S-REITs in the short-term
 Our analysis is purely mathematical.  It does not mean that REITs more sensitive to rising interest rate are necessarily REITs to avoid investing in as there are other factors to consider in assessing the potential viability of a REIT investment.  While it is market consensus for interest rates to rise in 2017, it is also our view that any increase will be modest.  Coupled with the generally conservative capital structure of most S-REITs, we think that REIT distributions should not be materially impacted by rising interest rates in the short-term.  You can also refer to our [earlier article](http://www.street-level.co/2016/11/25/singapore-reits-is-it-time-to-invest.html) where we share the reasons for our view of a sructurally lower inteest rate environment in the next decade.
 
 We hope you find this article useful.  Please leave us your comments below..
