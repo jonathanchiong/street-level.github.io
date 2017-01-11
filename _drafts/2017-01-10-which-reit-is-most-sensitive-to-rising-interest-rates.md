@@ -8,7 +8,7 @@ tags: 'reits, interest rates, rate hikes, rising rates, investments'
 published: false
 ---
 
-<img src="http:/www.street-level.com/assets/Bull-charge.jpg" width="500px"><br>
+<img src="http:/www.street-level.co/assets/Bull-charge.jpg" width="500px"><br>
 
 The US Federal Reserve [hike interest rates](http://www.forbes.com/sites/laurengensler/2016/12/14/federal-reserve-december-rate-hike/#44b027dd1229) for the second time in a decade on 14 December 2016.  Singapore interest rates correspondingly rose following the Feds hike with the [3-month SIBOR and SOR continually testing the 1% level](http://www.businesstimes.com.sg/banking-finance/pressure-on-sibor-sor-continues-in-the-new-year-rising-to-around-1) in the last few weeks.  Market is now expecting the Feds to be more aggressive in raising rates in 2017, with three rate hikes anticipated for the year.  Interest cost have the biggest impact on profitability for real estate investors, and the risk and impact of rising rates needs to be duly considered.  
 
