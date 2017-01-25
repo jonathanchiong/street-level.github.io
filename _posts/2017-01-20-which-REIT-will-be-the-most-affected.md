@@ -5,7 +5,7 @@ description: An analysis on the impact of rising interest rates on the S-REIT se
 date: 2017-01-20
 image: http://www.street-level.co/assets/Bull-charge.jpg
 tags: 'reits, interest rates, rates, rising, hikes, investments'
-published: false
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Bull-charge.jpg" width="500px"><br>
