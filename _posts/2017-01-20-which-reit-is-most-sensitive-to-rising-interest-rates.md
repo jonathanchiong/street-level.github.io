@@ -2,7 +2,7 @@
 layout: post
 title: Rising Interest Rates - Which REIT will be the most affected?
 description: An analysis on the impact of rising interest rates on the S-REIT sector
-date: 2017-01-10
+date: 2017-01-20
 image: http://www.street-level.co/assets/Bull-charge.jpg
 tags: 'reits, interest rates, rates, rising, hikes, investments'
 published: false
