@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which REIT Is Most Sensitive To Rising Interest Rates
+title: Rising Interest Rates - Which REIT will be the most affected?
 description: An analysis on the impact of rising interest rates on the S-REIT sector
 date: 2017-01-10
 image: http://www.street-level.co/assets/Bull-charge.jpg
