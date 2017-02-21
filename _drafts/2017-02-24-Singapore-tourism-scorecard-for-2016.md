@@ -14,7 +14,7 @@ We made the first call on the Singapore hotel sector back in September 2016.  I
 
 The strong growth is driven by the intense marketing efforts of the Singapore Tourism Board, promoting the city-state as a destination for both leisure and business.  This has resulted in increased visitor arrivals from the top source markets of China, Indonesia, and India, notwithstanding that other ASEAN markets like Vietnam and Thailand also delivered double digit growth.  
 
-<img src="http://www.street-level.co/assets/Sg-hotel-arrivals-2016.png" width="700px"><br>
+<img src="http://www.street-level.co/assets/Sg-tourism-arrivals-2016.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 ### Growth momentum in arrivals should continue
