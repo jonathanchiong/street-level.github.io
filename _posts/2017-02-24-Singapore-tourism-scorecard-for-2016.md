@@ -4,8 +4,8 @@ title: Singapore Tourism - Scorecard for 2016
 description: Review of the Singapore tourism statistics for 2016
 date: 2017-02-24
 image: http://www.street-level.co/assets/Fullerton-hotel.jpg
-tags: 'reits, interest rates, rates, rising, hikes, investments'
-published: false
+tags: 'tourism，hospitality'
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Fullerton-hotel.jpg" width="500px"><br>
