@@ -16,7 +16,7 @@ On 10 March 2017, the Singapore Government [announced adjustments](http://www.ma
 
 <img src="http://www.street-level.co/assets/Sg-resi-ssd-rates-Mar17.png" width="600px"><br>
 <sup>Source: Monetary Authority of Singapore</sup>
-
+<br>
 In addition to the SSD changes, the TDSR framework will now no longer apply to mortgage equity withdrawal loans with Loan to Value ("LTV") ratios of 50% and below. This adjustment on TDSR is taken in response to feedbacks received by the Government that the previous TDSR framework restricts retirees from borrowing against the value of their properties to obtain additional cash.<!--more-->
 
 ### What impact does these changes have on residential property prices? 
