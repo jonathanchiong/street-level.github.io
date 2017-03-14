@@ -4,10 +4,10 @@ title: >-
   Singapore Residential Property- How Will The Easing of Cooling Measures Impact
   Property Prices?
 description: Adjustments in property cooling measures
-date: {}
+date: 2017-03-14
 image: 'http://www.street-level.co/assets/Fullerton-hotel.jpg'
 tags: 'Singapore, residential, property prices, cooling measures, investment'
-published: false
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Scala_condo.jpg" width="500px"><br>
