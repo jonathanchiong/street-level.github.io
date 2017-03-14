@@ -8,13 +8,13 @@ tags: 'tourism，hospitality'
 published: true
 ---
 
-<img src="http://www.street-level.co/assets/Fullerton-hotel.jpg" width="500px"><br>
+<img src="{{site.url}}/assets/Fullerton-hotel.jpg" width="500px"><br>
 
 We made our [first call](http://www.street-level.co/2016/09/02/hotel-reits-the-bright-spot-in-the-real-estate-sector.html) on the Singapore hotel sector back in September 2016.  In line with our expectation, the Singapore tourism sector had a record year, [hitting 16.4 million visitors in 2016](http://www.channelnewsasia.com/news/business/singapore-s-tourism-numbers-hit-historic-high-in-2016/3517222.html), a 7.6% growth from 2015. <!--more-->
 
 The strong growth is driven by the intense marketing efforts of the Singapore Tourism Board, promoting the city-state as a destination for both leisure and business.  This has resulted in increased visitor arrivals from the top source markets of China, Indonesia, and India, notwithstanding that other ASEAN markets like Vietnam and Thailand also delivered double digit growth.  
 
-<img src="http://www.street-level.co/assets/Sg-tourism-arrivals-2016.png" width="700px"><br>
+<img src="{{site.url}}/assets/Sg-tourism-arrivals-2016.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 ### Growth momentum in arrivals should continue
@@ -29,13 +29,13 @@ Changi Airport Terminal 4(T4) is now completed.  T4 will support the increasing
 ### Tourism spending has been robust and growing, but a large influx of hotel room supply in the last 2 years have absorbed the demand for accomodation thus far...
 The increase in tourism arrivals has correspondingly driven the increase in tourism spending for the past few years.  Hotel room revenues grew 12.6% per annum over the last 7 years while hotel F&B revenue grew 8.6% per annum over the same period.  Full year 2016 numbers is also expected to surpass that of 2015.  The strong growth has yet to translate into higher hotel occupancy rates and room rates yet, due an large supply of hotel rooms in 2016 and 2017.
 
-<img src="http://www.street-level.co/assets/Sg-tourism-spending-Nov16.png" width="700px"><br>
+<img src="{{site.url}}/assets/Sg-tourism-spending-Nov16.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 ### ... however the supply of hotel rooms will taper off from 2018 onwards
 Supply of new hotel rooms will taper off significantly from 2018 and we believe this would reverse the trend in occupancy and room rate growth for the hotel industry within the next 12 to 18 months, assuming travel demand continues to be sustained.
 
-<img src="http://www.street-level.co/assets/Sg-hotel-supply-Dec16.png" width="700px"><br>
+<img src="{{site.url}}/assets/Sg-hotel-supply-Dec16.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 ### Conclusion
