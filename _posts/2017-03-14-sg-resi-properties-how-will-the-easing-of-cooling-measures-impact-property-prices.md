@@ -10,11 +10,11 @@ tags: 'Singapore, residential, property prices, cooling measures, investment'
 published: true
 ---
 
-<img src="http://www.street-level.co/assets/Scala_condo.jpg" width="500px"><br>
+<img src="{{site.url}}/assets/Scala_condo.jpg" width="500px"><br>
 
 On 10 March 2017, the Singapore Government [announced adjustments](http://www.mas.gov.sg/News-and-Publications/Media-Releases/2017/Joint-Press-Release-on-Measures-Relating-to-Residential-Property.aspx) to the previously enacted residential property cooling measures relating to the Seller's Stamp Duty ("SSD") and Total Debt Servicing Ratio ("TDSR"). With effect from 11 March 2017, the SSD will be reduced to 3 years (from 4 years before) and will be lowered by four percentage points for each tier. The table below summarizes the changes to the SSD for the respective holding periods.
 
-<img src="http://www.street-level.co/assets/Sg-resi-ssd-rates-Mar17.png" width="600px"><br>
+<img src="{{site.url}}/assets/Sg-resi-ssd-rates-Mar17.png" width="600px"><br>
 <sup>Source: Monetary Authority of Singapore</sup>
 <br>
 In addition to the SSD changes, the TDSR framework will now no longer apply to mortgage equity withdrawal loans with Loan to Value ("LTV") ratios of 50% and below. This adjustment on TDSR is taken in response to feedbacks received by the Government that the previous TDSR framework restricts retirees from borrowing against the value of their properties to obtain additional cash.<!--more-->
@@ -29,12 +29,12 @@ The change to the TDSR framework is also minor and will have limited impact to p
 ### Where will property prices go from here?
 We maintain [our view](http://www.street-level.co/2016/11/05/sg-residential-property-prices-how-much-lower.html) that **property prices will continue to fall further for the remaining of 2017 and possibly first half of 2018**, as the supply in the next 2 years is still substantial, albeit being lower than the last 3 years. 
 
-<img src="http://www.street-level.co/assets/Sg-prop-pipeline-Mar17.png" width="700px"><br>
+<img src="{{site.url}}/assets/Sg-prop-pipeline-Mar17.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 Current vacancies of vailable residential properties is still high at approximately 8% to 9%, implying that **residential rents still have further room to fall** which will in turn impact property values. 
 
-<img src="http://www.street-level.co/assets/Sg-resi-vacancy-Mar17.png" width="700px"><br>
+<img src="{{site.url}}/assets/Sg-resi-vacancy-Mar17.png" width="700px"><br>
 <sup>Source: Singstats</sup>
 
 **Demand for residential properties in the secondary market will likely be weak** until we see positive changes to the Additional Buyer Stamp Duty ("ABSD"), immigration stance (anecdotal reports continues to be negative with some saying there is an unofficial position of 7 foreign leavers for every 1 new foreign entry) and / or an improvement in the confidence of the global economy. Furthermore, the potential interest rate hikes will most certainly impact capital values when the effect of it flows through to investors, although the latter will probably have a time lag of 2-3 quarters for asset owners to really feel the pinch and enter the seller's market.
