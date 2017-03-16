@@ -8,7 +8,7 @@ tags: 'Singapore, residential, property prices, cooling measures, investment, pa
 published: false
 ---
 
-<img src="{{site.url}}/assets/Park-place-residences.jpg" width="600px"><br>
+<img src="http://www.street-level.co/assets/Park-place-residences.jpg" width="600px"><br>
 
 Australian-listed developer, LendLease, will soon be formally launching a new condominimum project, Park Place Residences ("PPR") in District 14 ("D14") of the Paya Lebar area . This 429-unit project, is part of the Paya Lebar Quarter, an integrated development project which includes three office towers and a shopping mall. This integrated development, built on a live-work-play concept, is positioned to be the next significant landmark in the Paya Lebar area, an area earmarked to be the next commercial hub outside of the Central Business District ("CBD").
 
