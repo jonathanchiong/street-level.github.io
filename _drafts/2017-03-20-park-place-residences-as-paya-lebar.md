@@ -28,7 +28,7 @@ Based on the indicative price, the unit price of PPR is approximately S$1,300 - 
 
 The closest condominum project based on proximity is Paya Lebar Residences, which is a 3 minute walk from PPR annd opposite Paya Lebar MRT station. Paya Lebar Residences is built on freehold land and was completed in 2003.  The latest caveat lodged for this project was in December 2015 at a unit price of S$1,016 psf.  Average unit price[^1] in the last 36 months for Paya Lebar Residences is S$1,076 psf.Other condomium projects in the vicinity are D'Weave, Sims Dorado, Sims Residence, Sims Ville and Sunflower Grandeur which are all located along Sims Avenue and Geylang Lorong 39 approximately 400 meters away.  The average transacted unit price[^1] for these condominiums range between S$822 psf to S$1,333 psf.  The most recently completed project among these is D'Weave, which is completed in 2015 and is built on freehold land.  D'Weave latest URA caveat was lodged in September 2016 for a 581 sqft apartment sold at S$800,000, which translates to a unit price of S$1,376 psf.
 
-<img src="http://www.street-level.co/assets/PPR-price-comp.png" width="00px"><br>
+<img src="http://www.street-level.co/assets/PPR-price-comp.png" width="400px"><br>
 <sup>Source: URA</sup>
 
 ### Rental market for private residential apartments in the area
