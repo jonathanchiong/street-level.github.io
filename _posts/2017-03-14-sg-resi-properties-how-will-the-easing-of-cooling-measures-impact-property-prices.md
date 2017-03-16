@@ -5,7 +5,7 @@ title: >-
   Property Prices?
 description: Adjustments in property cooling measures
 date: 2017-03-14
-image: 'http://www.street-level.co/assets/Fullerton-hotel.jpg'
+image: 'http://www.street-level.co/assets/Scala_condo.jpg'
 tags: 'Singapore, residential, property prices, cooling measures, investment'
 published: true
 ---
