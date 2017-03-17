@@ -12,7 +12,7 @@ published: false
 
 <img src="http://www.street-level.co/assets/Park-place-residences.jpg" width="600px"><br>
 
-Australian-listed developer, LendLease, will soon be formally launching a new condominimum project, Park Place Residences ("PPR") in District 14 ("D14") of the Paya Lebar area . This 429-unit project, is part of the Paya Lebar Quarter, an integrated development project which includes three office towers and a shopping mall. The development is built on a “live-work-play” concept and positioned to be the next significant landmark in the Paya Lebar area which is earmarked to be the next commercial hub outside of the Central Business District ("CBD").
+Australian-listed developer, LendLease, will soon be formally launching a new condominimum project, Park Place Residences ("PPR") in District 14 ("D14") of the Paya Lebar area. This 429-unit project, is part of the Paya Lebar Quarter, an integrated development project which includes three office towers and a shopping mall. The development is built on a “live-work-play” concept and positioned to be the next significant landmark in the Paya Lebar area which is earmarked to be the next commercial hub outside of the Central Business District ("CBD").
 
 PPR, a 99-year leasehold condominium project, will have a mix of one to three bedroom apartments across three residential blocks, with one bedroom units ranging from approximately 500 to 600 square feet ("sqft") in size, two bedroom units from 650 to 900 sqft, and three bedroom units from 1,050 to 1,350 sqft. Indicative price starts from S$780,000 for 1-bedders, S$1 million for 2-bedders and S$1.6 million for 3-bedders. Temporary Occupation Permit is expected to be obtained by second half of 2020.
 
