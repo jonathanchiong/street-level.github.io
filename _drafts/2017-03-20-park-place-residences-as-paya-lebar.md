@@ -2,7 +2,7 @@
 layout: post
 title: Park Place Residences at Paya Lebar - A Review
 description: A review of Park Place Residences project launch
-date: {}
+date: 2017-03-17T00:00:00.000Z
 image: 'http://www.street-level.co/assets/Park-place-residences.jpg'
 tags: >-
   Singapore, residential, property prices, cooling measures, investment, park
