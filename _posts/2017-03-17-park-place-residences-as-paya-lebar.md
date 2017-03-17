@@ -7,7 +7,7 @@ image: 'http://www.street-level.co/assets/Park-place-residences.jpg'
 tags: >-
   Singapore, residential, property prices, cooling measures, investment, park
   place residences, paya lebar
-published: false
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Park-place-residences.jpg" width="600px"><br>
