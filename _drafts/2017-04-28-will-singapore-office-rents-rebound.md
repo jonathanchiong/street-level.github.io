@@ -1,12 +1,13 @@
 ---
 layout: posttitle: Will Singapore Office Rents Rebound in 2017?
-description: Singapore office sectordate: 2017-04-28
-image: 'http://www.street-level.co/assets/Scala_condo.jpg'
+description: Singapore office sector
+date: 2017-04-28
+image: 'http://www.street-level.co/assets/Buildings-sg.jpg'
 tags: 'Singapore, office, rental, property prices, investment'
 published: false
 ---
 
-<img src="http://www.street-level.co/assets/Scala_condo.jpg" width="500px"><br>
+<img src="http://www.street-level.co/assets/Buildings-sg.jpg" width="500px"><br>
 
 CBRE Research reports that the office sector in Singapore is showing [signs of bottoming]
 (http://www.cbre.com.sg/aboutus/mediacentre/mediaarchives/Pages/Better-than-expected-pre-commitment-rates-at-office-buildings-point-to-rental-growth.aspx) and might possibly see a rebound towards the end of 2017.  However, we expect there will be further deterioration before a turnaround will be seen for the sector.
