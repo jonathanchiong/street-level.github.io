@@ -10,8 +10,7 @@ published: false
 
 <img src="http://www.street-level.co/assets/Buildings-sg.jpg" width="500px"><br>
 
-CBRE Research reports that the office sector in Singapore is showing [signs of bottoming]
-(http://www.cbre.com.sg/aboutus/mediacentre/mediaarchives/Pages/Better-than-expected-pre-commitment-rates-at-office-buildings-point-to-rental-growth.aspx) and might possibly see a rebound towards the end of 2017.  However, we expect there will be further deterioration before a turnaround will be seen for the sector.
+CBRE Research reports that the office sector in Singapore is showing [signs of bottoming](http://www.cbre.com.sg/aboutus/mediacentre/mediaarchives/Pages/Better-than-expected-pre-commitment-rates-at-office-buildings-point-to-rental-growth.aspx) and might possibly see a rebound towards the end of 2017.  However, we expect there will be further deterioration before a turnaround will be seen for the sector.
 
 <!--more-->
 
