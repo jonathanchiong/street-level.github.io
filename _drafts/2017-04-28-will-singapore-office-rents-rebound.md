@@ -15,7 +15,7 @@ CBRE Research reports that the office sector in Singapore is showing [signs of b
 <!--more-->
 
 ### Rents have been moderating but no drivers for growth in sight
-While the decline in office rents has slowed over the last few quarters, we think that that is partly due to technical stablization of the market as the lower rents were able to attract tenants to locate/relocate into the CBD.  At the moment, We do not see any material growth drivers for the office sector. Slower global economic growth and conservative corporate expansion plans will limit the pickup of the sector in the near term.  Demand for prime CBD office space, traditionally from the financial services sector remains to be weak as Singapore face higher unemployment and [fewer job vacancies](http://www.straitstimes.com/business/fewer-job-vacancies-but-more-openings-for-pmets)  
+While the decline in office rents has slowed over the last few quarters, we think that that is partly due to technical stablization of the market as the lower rents were able to attract tenants to locate/relocate into the CBD.  At the moment, we do not see any material growth drivers for the office sector. Slower global economic growth and conservative corporate expansion plans will limit the pickup of the sector in the near term.  Demand for prime CBD office space, traditionally from the financial services sector remains to be weak as Singapore face higher unemployment and [fewer job vacancies](http://www.straitstimes.com/business/fewer-job-vacancies-but-more-openings-for-pmets)  
 
 <img src="http://www.street-level.co/assets/Sg-office-rent-Apr17.png" width="500px"><br>
 <sup>Source: URA<br>
@@ -28,7 +28,7 @@ There was a large supply of office space in 2016 with Guoco Tower (0.9 million s
 
 <img src="http://www.street-level.co/assets/Sg-office-rent-vacancy-Apr17.png" width="500px"><br>
 <sup>Source: URA</sup>
-<br>
+<br><br>
 <img src="http://www.street-level.co/assets/Sg-office-supply-Apr17.png" width="500px"><br>
 <sup>Source: URA</sup>
 
