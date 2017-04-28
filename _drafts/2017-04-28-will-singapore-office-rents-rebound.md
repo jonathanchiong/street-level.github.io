@@ -18,7 +18,10 @@ CBRE Research reports that the office sector in Singapore is showing [signs of b
 While the decline in office rents has slowed over the last few quarters, we think that that is partly due to technical stablization of the market as the lower rents were able to attract tenants to locate/relocate into the CBD.  At the moment, We do not see any material growth drivers for the office sector. Slower global economic growth and conservative corporate expansion plans will limit the pickup of the sector in the near term.  Demand for prime CBD office space, traditionally from the financial services sector remains to be weak as Singapore face higher unemployment and [fewer job vacancies](http://www.straitstimes.com/business/fewer-job-vacancies-but-more-openings-for-pmets)  
 
 <img src="http://www.street-level.co/assets/Sg-office-rent-Apr17.png" width="500px"><br>
-<sup>Source: URA</sup>
+<sup>Source: URA<br>
+Category 1 - office buildings located in core business areas in Downtown Core and Orchard Planning Area which are relatively modern or recently refurbished, commands relatively high rentals and have large floor plate size and gross floor area<br>
+Category 2 - Remaining office space in Singapore not included in Category 1
+</sup>
 
 ### Landlords have been sacrificing rental growth to keep building occupied.  Occupancy levels could give way next, in the face of large oncoming supply.  
 There was a large supply of office space in 2016 with Guoco Tower (0.9 million sqft) coming onstream.  Further, 2017 is expected to will be the record year for office supply with Marina One (1.9 million sqft) providing more prime office space in the Marina Bay submarket.  Over the last 2 years, rents have been giving way and trending down.  Attractive rents and leasing incentives have kept occupancy level stable going.  But that has change in the recent quarters where occupancy rates have been rising.  We think that occupancy rate will continue to give way, as landlords with holding power who can ride out the bottom is less incentivized to contract at lower rental rates.
