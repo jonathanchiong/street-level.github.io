@@ -1,5 +1,6 @@
 ---
-layout: posttitle: Will Singapore Office Rents Rebound in 2017?
+layout: post
+title: Will Singapore Office Rents Rebound in 2017?
 description: Singapore office sector
 date: 2017-04-28
 image: 'http://www.street-level.co/assets/Buildings-sg.jpg'
