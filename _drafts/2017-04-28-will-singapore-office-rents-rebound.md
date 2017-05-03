@@ -5,7 +5,7 @@ description: Singapore office sector
 date: 2017-04-28
 image: 'http://www.street-level.co/assets/Buildings-sg.jpg'
 tags: 'Singapore, office, rental, property prices, investment'
-published: false
+published: true
 ---
 
 <img src="http://www.street-level.co/assets/Buildings-sg.jpg" width="500px"><br>
