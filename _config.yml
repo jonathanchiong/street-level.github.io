@@ -33,7 +33,7 @@ avatar:       assets/SL_Logo.png
 
 # Prose
 prose:
-  siteurl: http://www.street-level.co
+  siteurl: https://street-level.github.io
 #  rooturl: '_posts'
   media: 'assets'
   ignore:
