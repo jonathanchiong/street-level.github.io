@@ -8,7 +8,7 @@ collections:  null
 
 # Site Variables
 baseurl:      "/"
-url:          http://street-level.github.io
+url:          https://street-level.github.io
 title:        Street Level
 description:  Real Estate Investing in Singapore
 
